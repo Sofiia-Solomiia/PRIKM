@@ -1,0 +1,3146 @@
+-- Logs begin at Sat 2025-03-08 15:20:55 UTC, end at Sun 2025-03-09 15:57:09 UTC. --
+Mar 09 14:53:10 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Automount point already active?
+Mar 09 14:53:10 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Got automount request for /proc/sys/fs/binfmt_misc, triggered by 445 (snap)
+Mar 09 14:53:10 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Automount point already active?
+Mar 09 14:53:10 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Got automount request for /proc/sys/fs/binfmt_misc, triggered by 465 (snap)
+Mar 09 14:53:10 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Automount point already active?
+Mar 09 14:53:10 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Got automount request for /proc/sys/fs/binfmt_misc, triggered by 445 (snap)
+Mar 09 14:53:10 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Automount point already active?
+Mar 09 14:53:10 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Got automount request for /proc/sys/fs/binfmt_misc, triggered by 465 (snap)
+Mar 09 14:53:10 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Automount point already active?
+Mar 09 14:53:10 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Got automount request for /proc/sys/fs/binfmt_misc, triggered by 445 (snap)
+Mar 09 14:53:10 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Automount point already active?
+Mar 09 14:53:10 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Got automount request for /proc/sys/fs/binfmt_misc, triggered by 465 (snap)
+Mar 09 14:53:10 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Automount point already active?
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Got automount request for /proc/sys/fs/binfmt_misc, triggered by 445 (snap)
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Automount point already active?
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Got automount request for /proc/sys/fs/binfmt_misc, triggered by 465 (snap)
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Automount point already active?
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Got automount request for /proc/sys/fs/binfmt_misc, triggered by 445 (snap)
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Automount point already active?
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Got automount request for /proc/sys/fs/binfmt_misc, triggered by 465 (snap)
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Automount point already active?
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Got automount request for /proc/sys/fs/binfmt_misc, triggered by 445 (snap)
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Automount point already active?
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Got automount request for /proc/sys/fs/binfmt_misc, triggered by 465 (snap)
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Automount point already active?
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Got automount request for /proc/sys/fs/binfmt_misc, triggered by 445 (snap)
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Automount point already active?
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Got automount request for /proc/sys/fs/binfmt_misc, triggered by 465 (snap)
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Automount point already active?
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Got automount request for /proc/sys/fs/binfmt_misc, triggered by 445 (snap)
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Automount point already active?
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Got automount request for /proc/sys/fs/binfmt_misc, triggered by 465 (snap)
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Automount point already active?
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Got automount request for /proc/sys/fs/binfmt_misc, triggered by 445 (snap)
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Automount point already active?
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Got automount request for /proc/sys/fs/binfmt_misc, triggered by 465 (snap)
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Automount point already active?
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Got automount request for /proc/sys/fs/binfmt_misc, triggered by 445 (snap)
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Automount point already active?
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Got automount request for /proc/sys/fs/binfmt_misc, triggered by 465 (snap)
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Automount point already active?
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Got automount request for /proc/sys/fs/binfmt_misc, triggered by 445 (snap)
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Automount point already active?
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Got automount request for /proc/sys/fs/binfmt_misc, triggered by 465 (snap)
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Automount point already active?
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Got automount request for /proc/sys/fs/binfmt_misc, triggered by 445 (snap)
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Automount point already active?
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Got automount request for /proc/sys/fs/binfmt_misc, triggered by 445 (snap)
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Automount point already active?
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Got automount request for /proc/sys/fs/binfmt_misc, triggered by 465 (snap)
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Automount point already active?
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Got automount request for /proc/sys/fs/binfmt_misc, triggered by 445 (snap)
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Automount point already active?
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Got automount request for /proc/sys/fs/binfmt_misc, triggered by 465 (snap)
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Automount point already active?
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Got automount request for /proc/sys/fs/binfmt_misc, triggered by 445 (snap)
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Automount point already active?
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Got automount request for /proc/sys/fs/binfmt_misc, triggered by 465 (snap)
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Automount point already active?
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Got automount request for /proc/sys/fs/binfmt_misc, triggered by 445 (snap)
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Automount point already active?
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Got automount request for /proc/sys/fs/binfmt_misc, triggered by 465 (snap)
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Automount point already active?
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Got automount request for /proc/sys/fs/binfmt_misc, triggered by 445 (snap)
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Automount point already active?
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Got automount request for /proc/sys/fs/binfmt_misc, triggered by 465 (snap)
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Automount point already active?
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Got automount request for /proc/sys/fs/binfmt_misc, triggered by 445 (snap)
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Automount point already active?
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Got automount request for /proc/sys/fs/binfmt_misc, triggered by 465 (snap)
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Automount point already active?
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Got automount request for /proc/sys/fs/binfmt_misc, triggered by 445 (snap)
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Automount point already active?
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Got automount request for /proc/sys/fs/binfmt_misc, triggered by 465 (snap)
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Automount point already active?
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Got automount request for /proc/sys/fs/binfmt_misc, triggered by 445 (snap)
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Automount point already active?
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Got automount request for /proc/sys/fs/binfmt_misc, triggered by 445 (snap)
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Automount point already active?
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Got automount request for /proc/sys/fs/binfmt_misc, triggered by 445 (snap)
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Automount point already active?
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Got automount request for /proc/sys/fs/binfmt_misc, triggered by 445 (snap)
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Automount point already active?
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Got automount request for /proc/sys/fs/binfmt_misc, triggered by 445 (snap)
+Mar 09 14:53:11 pav systemd[1]: proc-sys-fs-binfmt_misc.automount: Automount point already active?
+Mar 09 14:53:11 pav udevadm[426]: systemd-udev-settle.service is deprecated.
+Mar 09 14:53:11 pav systemd[1]: Reached target Sound Card.
+-- Subject: A start job for unit sound.target has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit sound.target has finished successfully.
+-- 
+-- The job identifier is 193.
+Mar 09 14:53:13 pav systemd[1]: Finished udev Wait for Complete Device Initialization.
+-- Subject: A start job for unit systemd-udev-settle.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit systemd-udev-settle.service has finished successfully.
+-- 
+-- The job identifier is 52.
+Mar 09 14:53:13 pav systemd[1]: Found device QEMU_HARDDISK 2.
+-- Subject: A start job for unit dev-disk-by\x2duuid-35ee6c40\x2dd452\x2d4db8\x2d9285\x2dd4ed9e122180.device has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit dev-disk-by\x2duuid-35ee6c40\x2dd452\x2d4db8\x2d9285\x2dd4ed9e122180.device has finished successfully.
+-- 
+-- The job identifier is 18.
+Mar 09 14:53:13 pav systemd[1]: Found device QEMU_HARDDISK 1.
+-- Subject: A start job for unit dev-disk-by\x2duuid-841C\x2d5976.device has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit dev-disk-by\x2duuid-841C\x2d5976.device has finished successfully.
+-- 
+-- The job identifier is 14.
+Mar 09 14:53:13 pav systemd[1]: Created slice system-lvm2\x2dpvscan.slice.
+-- Subject: A start job for unit system-lvm2\x2dpvscan.slice has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit system-lvm2\x2dpvscan.slice has finished successfully.
+-- 
+-- The job identifier is 197.
+Mar 09 14:53:13 pav systemd[1]: Starting LVM event activation on device 8:3...
+-- Subject: A start job for unit lvm2-pvscan@8:3.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit lvm2-pvscan@8:3.service has begun execution.
+-- 
+-- The job identifier is 196.
+Mar 09 14:53:13 pav systemd[1]: Starting Device-Mapper Multipath Device Controller...
+-- Subject: A start job for unit multipathd.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit multipathd.service has begun execution.
+-- 
+-- The job identifier is 51.
+Mar 09 14:53:13 pav kernel: alua: device handler registered
+Mar 09 14:53:13 pav kernel: emc: device handler registered
+Mar 09 14:53:13 pav kernel: rdac: device handler registered
+Mar 09 14:53:14 pav multipathd[566]: --------start up--------
+Mar 09 14:53:14 pav multipathd[566]: read /etc/multipath.conf
+Mar 09 14:53:14 pav multipathd[566]: path checkers start up
+Mar 09 14:53:14 pav systemd[1]: Started Device-Mapper Multipath Device Controller.
+-- Subject: A start job for unit multipathd.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit multipathd.service has finished successfully.
+-- 
+-- The job identifier is 51.
+Mar 09 14:53:14 pav systemd[1]: Reached target Local File Systems (Pre).
+-- Subject: A start job for unit local-fs-pre.target has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit local-fs-pre.target has finished successfully.
+-- 
+-- The job identifier is 21.
+Mar 09 14:53:14 pav systemd[1]: Mounting Mount unit for core20, revision 1828...
+-- Subject: A start job for unit snap-core20-1828.mount has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit snap-core20-1828.mount has begun execution.
+-- 
+-- The job identifier is 113.
+Mar 09 14:53:14 pav systemd[1]: Mounting Mount unit for lxd, revision 24061...
+-- Subject: A start job for unit snap-lxd-24061.mount has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit snap-lxd-24061.mount has begun execution.
+-- 
+-- The job identifier is 110.
+Mar 09 14:53:14 pav systemd[1]: Mounting Mount unit for snapd, revision 18357...
+-- Subject: A start job for unit snap-snapd-18357.mount has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit snap-snapd-18357.mount has begun execution.
+-- 
+-- The job identifier is 135.
+Mar 09 14:53:14 pav systemd[1]: Starting File System Check on /dev/disk/by-uuid/35ee6c40-d452-4db8-9285-d4ed9e122180...
+-- Subject: A start job for unit systemd-fsck@dev-disk-by\x2duuid-35ee6c40\x2dd452\x2d4db8\x2d9285\x2dd4ed9e122180.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit systemd-fsck@dev-disk-by\x2duuid-35ee6c40\x2dd452\x2d4db8\x2d9285\x2dd4ed9e122180.service has begun execution.
+-- 
+-- The job identifier is 17.
+Mar 09 14:53:14 pav systemd[1]: Starting File System Check on /dev/disk/by-uuid/841C-5976...
+-- Subject: A start job for unit systemd-fsck@dev-disk-by\x2duuid-841C\x2d5976.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit systemd-fsck@dev-disk-by\x2duuid-841C\x2d5976.service has begun execution.
+-- 
+-- The job identifier is 12.
+Mar 09 14:53:14 pav lvm[560]:   pvscan[560] PV /dev/sda3 online, VG ubuntu-vg is complete.
+Mar 09 14:53:14 pav lvm[560]:   pvscan[560] VG ubuntu-vg skip autoactivation.
+Mar 09 14:53:14 pav systemd[1]: Mounted Mount unit for core20, revision 1828.
+-- Subject: A start job for unit snap-core20-1828.mount has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit snap-core20-1828.mount has finished successfully.
+-- 
+-- The job identifier is 113.
+Mar 09 14:53:14 pav systemd[1]: Mounted Mount unit for lxd, revision 24061.
+-- Subject: A start job for unit snap-lxd-24061.mount has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit snap-lxd-24061.mount has finished successfully.
+-- 
+-- The job identifier is 110.
+Mar 09 14:53:14 pav systemd[1]: Finished LVM event activation on device 8:3.
+-- Subject: A start job for unit lvm2-pvscan@8:3.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit lvm2-pvscan@8:3.service has finished successfully.
+-- 
+-- The job identifier is 196.
+Mar 09 14:53:14 pav systemd[1]: Mounted Mount unit for snapd, revision 18357.
+-- Subject: A start job for unit snap-snapd-18357.mount has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit snap-snapd-18357.mount has finished successfully.
+-- 
+-- The job identifier is 135.
+Mar 09 14:53:14 pav systemd[1]: Reached target Mounted snaps.
+-- Subject: A start job for unit snapd.mounts.target has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit snapd.mounts.target has finished successfully.
+-- 
+-- The job identifier is 134.
+Mar 09 14:53:14 pav systemd[1]: Started File System Check Daemon to report status.
+-- Subject: A start job for unit systemd-fsckd.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit systemd-fsckd.service has finished successfully.
+-- 
+-- The job identifier is 211.
+Mar 09 14:53:15 pav systemd-fsck[584]: fsck.fat 4.1 (2017-01-24)
+Mar 09 14:53:15 pav systemd-fsck[584]: 0x41: Dirty bit is set. Fs was not properly unmounted and some data may be corrupt.
+Mar 09 14:53:15 pav systemd-fsck[584]:  Automatically removing dirty bit.
+Mar 09 14:53:15 pav systemd-fsck[584]: Performing changes.
+Mar 09 14:53:15 pav systemd-fsck[584]: /dev/sda1: 11 files, 1557/274658 clusters
+Mar 09 14:53:15 pav systemd[1]: Finished File System Check on /dev/disk/by-uuid/841C-5976.
+-- Subject: A start job for unit systemd-fsck@dev-disk-by\x2duuid-841C\x2d5976.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit systemd-fsck@dev-disk-by\x2duuid-841C\x2d5976.service has finished successfully.
+-- 
+-- The job identifier is 12.
+Mar 09 14:53:15 pav systemd-fsck[585]: /dev/sda2: recovering journal
+Mar 09 14:53:15 pav systemd-fsck[585]: /dev/sda2: clean, 305/131072 files, 54601/524288 blocks
+Mar 09 14:53:15 pav systemd[1]: Finished File System Check on /dev/disk/by-uuid/35ee6c40-d452-4db8-9285-d4ed9e122180.
+-- Subject: A start job for unit systemd-fsck@dev-disk-by\x2duuid-35ee6c40\x2dd452\x2d4db8\x2d9285\x2dd4ed9e122180.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit systemd-fsck@dev-disk-by\x2duuid-35ee6c40\x2dd452\x2d4db8\x2d9285\x2dd4ed9e122180.service has finished successfully.
+-- 
+-- The job identifier is 17.
+Mar 09 14:53:15 pav systemd[1]: Mounting /boot...
+-- Subject: A start job for unit boot.mount has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit boot.mount has begun execution.
+-- 
+-- The job identifier is 16.
+Mar 09 14:53:15 pav kernel: EXT4-fs (sda2): mounted filesystem with ordered data mode. Opts: (null)
+Mar 09 14:53:15 pav systemd[1]: Mounted /boot.
+-- Subject: A start job for unit boot.mount has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit boot.mount has finished successfully.
+-- 
+-- The job identifier is 16.
+Mar 09 14:53:15 pav systemd[1]: Mounting /boot/efi...
+-- Subject: A start job for unit boot-efi.mount has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit boot-efi.mount has begun execution.
+-- 
+-- The job identifier is 11.
+Mar 09 14:53:15 pav systemd[1]: Mounted /boot/efi.
+-- Subject: A start job for unit boot-efi.mount has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit boot-efi.mount has finished successfully.
+-- 
+-- The job identifier is 11.
+Mar 09 14:53:15 pav systemd[1]: Reached target Local File Systems.
+-- Subject: A start job for unit local-fs.target has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit local-fs.target has finished successfully.
+-- 
+-- The job identifier is 10.
+Mar 09 14:53:16 pav systemd[1]: Starting Load AppArmor profiles...
+-- Subject: A start job for unit apparmor.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit apparmor.service has begun execution.
+-- 
+-- The job identifier is 37.
+Mar 09 14:53:16 pav systemd[1]: Starting Set console font and keymap...
+-- Subject: A start job for unit console-setup.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit console-setup.service has begun execution.
+-- 
+-- The job identifier is 145.
+Mar 09 14:53:16 pav systemd[1]: Starting Create final runtime dir for shutdown pivot root...
+-- Subject: A start job for unit finalrd.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit finalrd.service has begun execution.
+-- 
+-- The job identifier is 70.
+Mar 09 14:53:16 pav systemd[1]: Condition check resulted in LXD - agent - 9p mount being skipped.
+-- Subject: A start job for unit lxd-agent-9p.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit lxd-agent-9p.service has finished successfully.
+-- 
+-- The job identifier is 117.
+Mar 09 14:53:16 pav systemd[1]: Condition check resulted in LXD - agent being skipped.
+-- Subject: A start job for unit lxd-agent.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit lxd-agent.service has finished successfully.
+-- 
+-- The job identifier is 116.
+Mar 09 14:53:16 pav systemd[1]: Starting Tell Plymouth To Write Out Runtime Data...
+-- Subject: A start job for unit plymouth-read-write.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit plymouth-read-write.service has begun execution.
+-- 
+-- The job identifier is 54.
+Mar 09 14:53:16 pav systemd[1]: Condition check resulted in Store a System Token in an EFI Variable being skipped.
+-- Subject: A start job for unit systemd-boot-system-token.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit systemd-boot-system-token.service has finished successfully.
+-- 
+-- The job identifier is 61.
+Mar 09 14:53:16 pav systemd[1]: Condition check resulted in Commit a transient machine-id on disk being skipped.
+-- Subject: A start job for unit systemd-machine-id-commit.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit systemd-machine-id-commit.service has finished successfully.
+-- 
+-- The job identifier is 53.
+Mar 09 14:53:16 pav systemd[1]: Starting Create Volatile Files and Directories...
+-- Subject: A start job for unit systemd-tmpfiles-setup.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit systemd-tmpfiles-setup.service has begun execution.
+-- 
+-- The job identifier is 67.
+Mar 09 14:53:16 pav systemd[1]: Finished Create final runtime dir for shutdown pivot root.
+-- Subject: A start job for unit finalrd.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit finalrd.service has finished successfully.
+-- 
+-- The job identifier is 70.
+Mar 09 14:53:16 pav systemd[1]: plymouth-read-write.service: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit plymouth-read-write.service has successfully entered the 'dead' state.
+Mar 09 14:53:16 pav systemd[1]: Finished Tell Plymouth To Write Out Runtime Data.
+-- Subject: A start job for unit plymouth-read-write.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit plymouth-read-write.service has finished successfully.
+-- 
+-- The job identifier is 54.
+Mar 09 14:53:16 pav systemd[1]: Finished Set console font and keymap.
+-- Subject: A start job for unit console-setup.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit console-setup.service has finished successfully.
+-- 
+-- The job identifier is 145.
+Mar 09 14:53:16 pav apparmor.systemd[591]: Restarting AppArmor
+Mar 09 14:53:16 pav apparmor.systemd[591]: Reloading AppArmor profiles
+Mar 09 14:53:16 pav apparmor.systemd[602]: Skipping profile in /etc/apparmor.d/disable: usr.sbin.rsyslogd
+Mar 09 14:53:16 pav audit[603]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="lsb_release" pid=603 comm="apparmor_parser"[0m
+Mar 09 14:53:16 pav kernel: [0;1;39m[0;1;31m[0;1;39maudit: type=1400 audit(1741531996.848:2): apparmor="STATUS" operation="profile_load" profile="unconfined" name="lsb_release" pid=603 comm="apparmor_parser"[0m
+Mar 09 14:53:16 pav audit[604]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="nvidia_modprobe" pid=604 comm="apparmor_parser"[0m
+Mar 09 14:53:16 pav audit[604]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="nvidia_modprobe//kmod" pid=604 comm="apparmor_parser"[0m
+Mar 09 14:53:16 pav kernel: [0;1;39m[0;1;31m[0;1;39maudit: type=1400 audit(1741531996.896:3): apparmor="STATUS" operation="profile_load" profile="unconfined" name="nvidia_modprobe" pid=604 comm="apparmor_parser"[0m
+Mar 09 14:53:16 pav kernel: [0;1;39m[0;1;31m[0;1;39maudit: type=1400 audit(1741531996.896:4): apparmor="STATUS" operation="profile_load" profile="unconfined" name="nvidia_modprobe//kmod" pid=604 comm="apparmor_parser"[0m
+Mar 09 14:53:16 pav audit[605]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/snapd/snap-confine" pid=605 comm="apparmor_parser"[0m
+Mar 09 14:53:16 pav audit[605]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/snapd/snap-confine//mount-namespace-capture-helper" pid=605 comm="apparmor_parser"[0m
+Mar 09 14:53:16 pav kernel: [0;1;39m[0;1;31m[0;1;39maudit: type=1400 audit(1741531996.968:5): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/snapd/snap-confine" pid=605 comm="apparmor_parser"[0m
+Mar 09 14:53:16 pav kernel: [0;1;39m[0;1;31m[0;1;39maudit: type=1400 audit(1741531996.968:6): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/snapd/snap-confine//mount-namespace-capture-helper" pid=605 comm="apparmor_parser"[0m
+Mar 09 14:53:17 pav audit[606]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/sbin/tcpdump" pid=606 comm="apparmor_parser"[0m
+Mar 09 14:53:17 pav kernel: [0;1;39m[0;1;31m[0;1;39maudit: type=1400 audit(1741531997.032:7): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/sbin/tcpdump" pid=606 comm="apparmor_parser"[0m
+Mar 09 14:53:17 pav systemd[1]: Finished Create Volatile Files and Directories.
+-- Subject: A start job for unit systemd-tmpfiles-setup.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit systemd-tmpfiles-setup.service has finished successfully.
+-- 
+-- The job identifier is 67.
+Mar 09 14:53:17 pav systemd[1]: Starting Network Time Synchronization...
+-- Subject: A start job for unit systemd-timesyncd.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit systemd-timesyncd.service has begun execution.
+-- 
+-- The job identifier is 78.
+Mar 09 14:53:17 pav kernel: [0;1;39m[0;1;31m[0;1;39maudit: type=1400 audit(1741531997.176:8): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/bin/man" pid=607 comm="apparmor_parser"[0m
+Mar 09 14:53:17 pav kernel: [0;1;39m[0;1;31m[0;1;39maudit: type=1400 audit(1741531997.176:9): apparmor="STATUS" operation="profile_load" profile="unconfined" name="man_filter" pid=607 comm="apparmor_parser"[0m
+Mar 09 14:53:17 pav kernel: [0;1;39m[0;1;31m[0;1;39maudit: type=1400 audit(1741531997.176:10): apparmor="STATUS" operation="profile_load" profile="unconfined" name="man_groff" pid=607 comm="apparmor_parser"[0m
+Mar 09 14:53:17 pav audit[607]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/bin/man" pid=607 comm="apparmor_parser"[0m
+Mar 09 14:53:17 pav audit[607]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="man_filter" pid=607 comm="apparmor_parser"[0m
+Mar 09 14:53:17 pav audit[607]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="man_groff" pid=607 comm="apparmor_parser"[0m
+Mar 09 14:53:17 pav systemd[1]: Starting Update UTMP about System Boot/Shutdown...
+-- Subject: A start job for unit systemd-update-utmp.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit systemd-update-utmp.service has begun execution.
+-- 
+-- The job identifier is 150.
+Mar 09 14:53:17 pav audit[610]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/NetworkManager/nm-dhcp-client.action" pid=610 comm="apparmor_parser"[0m
+Mar 09 14:53:17 pav audit[610]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/NetworkManager/nm-dhcp-helper" pid=610 comm="apparmor_parser"[0m
+Mar 09 14:53:17 pav audit[610]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/connman/scripts/dhclient-script" pid=610 comm="apparmor_parser"[0m
+Mar 09 14:53:17 pav audit[610]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="/{,usr/}sbin/dhclient" pid=610 comm="apparmor_parser"[0m
+Mar 09 14:53:17 pav kernel: [0;1;39m[0;1;31m[0;1;39maudit: type=1400 audit(1741531997.356:11): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/NetworkManager/nm-dhcp-client.action" pid=610 comm="apparmor_parser"[0m
+Mar 09 14:53:17 pav systemd[1]: Finished Load AppArmor profiles.
+-- Subject: A start job for unit apparmor.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit apparmor.service has finished successfully.
+-- 
+-- The job identifier is 37.
+Mar 09 14:53:17 pav systemd[1]: Starting Load AppArmor profiles managed internally by snapd...
+-- Subject: A start job for unit snapd.apparmor.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit snapd.apparmor.service has begun execution.
+-- 
+-- The job identifier is 133.
+Mar 09 14:53:17 pav systemd[1]: Condition check resulted in Authentication service for virtual machines hosted on VMware being skipped.
+-- Subject: A start job for unit vgauth.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit vgauth.service has finished successfully.
+-- 
+-- The job identifier is 139.
+Mar 09 14:53:17 pav systemd[1]: Condition check resulted in Service for virtual machines hosted on VMware being skipped.
+-- Subject: A start job for unit open-vm-tools.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit open-vm-tools.service has finished successfully.
+-- 
+-- The job identifier is 138.
+Mar 09 14:53:17 pav systemd[1]: Starting Initial cloud-init job (pre-networking)...
+-- Subject: A start job for unit cloud-init-local.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit cloud-init-local.service has begun execution.
+-- 
+-- The job identifier is 159.
+Mar 09 14:53:17 pav systemd[1]: Finished Update UTMP about System Boot/Shutdown.
+-- Subject: A start job for unit systemd-update-utmp.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit systemd-update-utmp.service has finished successfully.
+-- 
+-- The job identifier is 150.
+Mar 09 14:53:18 pav snapd-apparmor[611]: main.go:124: Loading profiles [/var/lib/snapd/apparmor/profiles/snap-confine.snapd.18357 /var/lib/snapd/apparmor/profiles/snap-update-ns.lxd /var/lib/snapd/apparmor/profiles/snap.lxd.activate /var/lib/snapd/apparmor/profiles/snap.lxd.benchmark /var/lib/snapd/apparmor/profiles/snap.lxd.buginfo /var/lib/snapd/apparmor/profiles/snap.lxd.check-kernel /var/lib/snapd/apparmor/profiles/snap.lxd.daemon /var/lib/snapd/apparmor/profiles/snap.lxd.hook.configure /var/lib/snapd/apparmor/profiles/snap.lxd.hook.install /var/lib/snapd/apparmor/profiles/snap.lxd.hook.remove /var/lib/snapd/apparmor/profiles/snap.lxd.lxc /var/lib/snapd/apparmor/profiles/snap.lxd.lxc-to-lxd /var/lib/snapd/apparmor/profiles/snap.lxd.lxd /var/lib/snapd/apparmor/profiles/snap.lxd.migrate]
+Mar 09 14:53:18 pav audit[619]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="/snap/snapd/18357/usr/lib/snapd/snap-confine" pid=619 comm="apparmor_parser"[0m
+Mar 09 14:53:18 pav audit[619]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="/snap/snapd/18357/usr/lib/snapd/snap-confine//mount-namespace-capture-helper" pid=619 comm="apparmor_parser"[0m
+Mar 09 14:53:18 pav audit[620]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap-update-ns.lxd" pid=620 comm="apparmor_parser"[0m
+Mar 09 14:53:18 pav audit[621]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap.lxd.activate" pid=621 comm="apparmor_parser"[0m
+Mar 09 14:53:18 pav audit[622]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap.lxd.benchmark" pid=622 comm="apparmor_parser"[0m
+Mar 09 14:53:19 pav systemd[1]: Started Network Time Synchronization.
+-- Subject: A start job for unit systemd-timesyncd.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit systemd-timesyncd.service has finished successfully.
+-- 
+-- The job identifier is 78.
+Mar 09 14:53:19 pav systemd[1]: Reached target System Time Set.
+-- Subject: A start job for unit time-set.target has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit time-set.target has finished successfully.
+-- 
+-- The job identifier is 79.
+Mar 09 14:53:19 pav systemd[1]: Reached target System Time Synchronized.
+-- Subject: A start job for unit time-sync.target has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit time-sync.target has finished successfully.
+-- 
+-- The job identifier is 80.
+Mar 09 14:53:19 pav audit[623]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap.lxd.buginfo" pid=623 comm="apparmor_parser"[0m
+Mar 09 14:53:19 pav audit[625]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap.lxd.check-kernel" pid=625 comm="apparmor_parser"[0m
+Mar 09 14:53:19 pav audit[626]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap.lxd.daemon" pid=626 comm="apparmor_parser"[0m
+Mar 09 14:53:19 pav audit[627]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap.lxd.hook.configure" pid=627 comm="apparmor_parser"[0m
+Mar 09 14:53:19 pav audit[628]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap.lxd.hook.install" pid=628 comm="apparmor_parser"[0m
+Mar 09 14:53:20 pav audit[629]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap.lxd.hook.remove" pid=629 comm="apparmor_parser"[0m
+Mar 09 14:53:20 pav audit[630]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap.lxd.lxc" pid=630 comm="apparmor_parser"[0m
+Mar 09 14:53:20 pav audit[631]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap.lxd.lxc-to-lxd" pid=631 comm="apparmor_parser"[0m
+Mar 09 14:53:20 pav audit[632]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap.lxd.lxd" pid=632 comm="apparmor_parser"[0m
+Mar 09 14:53:20 pav audit[633]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap.lxd.migrate" pid=633 comm="apparmor_parser"[0m
+Mar 09 14:53:20 pav systemd[1]: Finished Load AppArmor profiles managed internally by snapd.
+-- Subject: A start job for unit snapd.apparmor.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit snapd.apparmor.service has finished successfully.
+-- 
+-- The job identifier is 133.
+Mar 09 14:53:27 pav cloud-init[642]: Cloud-init v. 23.1.2-0ubuntu0~20.04.2 running 'init-local' at Sun, 09 Mar 2025 14:53:26 +0000. Up 53.96 seconds.
+Mar 09 14:53:28 pav systemd[1]: Finished Initial cloud-init job (pre-networking).
+-- Subject: A start job for unit cloud-init-local.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit cloud-init-local.service has finished successfully.
+-- 
+-- The job identifier is 159.
+Mar 09 14:53:28 pav systemd[1]: Reached target Network (Pre).
+-- Subject: A start job for unit network-pre.target has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit network-pre.target has finished successfully.
+-- 
+-- The job identifier is 160.
+Mar 09 14:53:28 pav systemd[1]: Starting Network Service...
+-- Subject: A start job for unit systemd-networkd.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit systemd-networkd.service has begun execution.
+-- 
+-- The job identifier is 74.
+Mar 09 14:53:28 pav systemd-networkd[643]: Enumeration completed
+Mar 09 14:53:28 pav systemd[1]: Started Network Service.
+-- Subject: A start job for unit systemd-networkd.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit systemd-networkd.service has finished successfully.
+-- 
+-- The job identifier is 74.
+Mar 09 14:53:28 pav systemd-networkd[643]: enp0s1: IPv6 successfully enabled
+Mar 09 14:53:28 pav systemd[1]: Starting Wait for Network to be Configured...
+-- Subject: A start job for unit systemd-networkd-wait-online.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit systemd-networkd-wait-online.service has begun execution.
+-- 
+-- The job identifier is 73.
+Mar 09 14:53:29 pav systemd[1]: Starting Network Name Resolution...
+-- Subject: A start job for unit systemd-resolved.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit systemd-resolved.service has begun execution.
+-- 
+-- The job identifier is 119.
+Mar 09 14:53:29 pav kernel: e1000: enp0s1 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: RX
+Mar 09 14:53:29 pav kernel: IPv6: ADDRCONF(NETDEV_CHANGE): enp0s1: link becomes ready
+Mar 09 14:53:29 pav systemd-networkd[643]: enp0s1: Link UP
+Mar 09 14:53:29 pav systemd-networkd[643]: enp0s1: Gained carrier
+Mar 09 14:53:30 pav systemd-resolved[645]: Positive Trust Anchors:
+Mar 09 14:53:30 pav systemd-resolved[645]: . IN DS 20326 8 2 e06d44b80b8f1d39a95c0b0d7c65d08458e880409bbc683457104237c7f8ec8d
+Mar 09 14:53:30 pav systemd-resolved[645]: Negative trust anchors: 10.in-addr.arpa 16.172.in-addr.arpa 17.172.in-addr.arpa 18.172.in-addr.arpa 19.172.in-addr.arpa 20.172.in-addr.arpa 21.172.in-addr.arpa 22.172.in-addr.arpa 23.172.in-addr.arpa 24.172.in-addr.arpa 25.172.in-addr.arpa 26.172.in-addr.arpa 27.172.in-addr.arpa 28.172.in-addr.arpa 29.172.in-addr.arpa 30.172.in-addr.arpa 31.172.in-addr.arpa 168.192.in-addr.arpa d.f.ip6.arpa corp home internal intranet lan local private test
+Mar 09 14:53:30 pav systemd-networkd[643]: enp0s1: DHCPv4 address 10.211.55.14/24 via 10.211.55.1
+Mar 09 14:53:30 pav systemd-timesyncd[608]: Network configuration changed, trying to establish connection.
+Mar 09 14:53:30 pav systemd-resolved[645]: Using system hostname 'pav'.
+Mar 09 14:53:30 pav systemd[1]: Started Network Name Resolution.
+-- Subject: A start job for unit systemd-resolved.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit systemd-resolved.service has finished successfully.
+-- 
+-- The job identifier is 119.
+Mar 09 14:53:30 pav systemd[1]: Reached target Network.
+-- Subject: A start job for unit network.target has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit network.target has finished successfully.
+-- 
+-- The job identifier is 75.
+Mar 09 14:53:30 pav systemd[1]: Reached target Host and Network Name Lookups.
+-- Subject: A start job for unit nss-lookup.target has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit nss-lookup.target has finished successfully.
+-- 
+-- The job identifier is 120.
+Mar 09 14:53:31 pav systemd-networkd[643]: enp0s1: Gained IPv6LL
+Mar 09 14:53:31 pav systemd-networkd-wait-online[644]: managing: enp0s1
+Mar 09 14:53:31 pav systemd-timesyncd[608]: Network configuration changed, trying to establish connection.
+Mar 09 14:53:31 pav systemd[1]: Finished Wait for Network to be Configured.
+-- Subject: A start job for unit systemd-networkd-wait-online.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit systemd-networkd-wait-online.service has finished successfully.
+-- 
+-- The job identifier is 73.
+Mar 09 14:53:31 pav systemd[1]: Starting Initial cloud-init job (metadata service crawler)...
+-- Subject: A start job for unit cloud-init.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit cloud-init.service has begun execution.
+-- 
+-- The job identifier is 158.
+Mar 09 14:53:32 pav systemd-timesyncd[608]: Network configuration changed, trying to establish connection.
+Mar 09 14:53:35 pav cloud-init[651]: Cloud-init v. 23.1.2-0ubuntu0~20.04.2 running 'init' at Sun, 09 Mar 2025 14:53:34 +0000. Up 61.88 seconds.
+Mar 09 14:53:35 pav cloud-init[651]: ci-info: +++++++++++++++++++++++++++++++++++++++++++++Net device info++++++++++++++++++++++++++++++++++++++++++++++
+Mar 09 14:53:35 pav cloud-init[651]: ci-info: +--------+------+-------------------------------------------+---------------+--------+-------------------+
+Mar 09 14:53:35 pav cloud-init[651]: ci-info: | Device |  Up  |                  Address                  |      Mask     | Scope  |     Hw-Address    |
+Mar 09 14:53:35 pav cloud-init[651]: ci-info: +--------+------+-------------------------------------------+---------------+--------+-------------------+
+Mar 09 14:53:35 pav cloud-init[651]: ci-info: | enp0s1 | True |                10.211.55.14               | 255.255.255.0 | global | a2:09:af:89:34:56 |
+Mar 09 14:53:35 pav cloud-init[651]: ci-info: | enp0s1 | True | fd58:b594:121:dfb0:a009:afff:fe89:3456/64 |       .       | global | a2:09:af:89:34:56 |
+Mar 09 14:53:35 pav cloud-init[651]: ci-info: | enp0s1 | True |        fe80::a009:afff:fe89:3456/64       |       .       |  link  | a2:09:af:89:34:56 |
+Mar 09 14:53:35 pav cloud-init[651]: ci-info: |   lo   | True |                 127.0.0.1                 |   255.0.0.0   |  host  |         .         |
+Mar 09 14:53:35 pav cloud-init[651]: ci-info: |   lo   | True |                  ::1/128                  |       .       |  host  |         .         |
+Mar 09 14:53:35 pav cloud-init[651]: ci-info: +--------+------+-------------------------------------------+---------------+--------+-------------------+
+Mar 09 14:53:35 pav cloud-init[651]: ci-info: ++++++++++++++++++++++++++++++Route IPv4 info++++++++++++++++++++++++++++++
+Mar 09 14:53:35 pav cloud-init[651]: ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+Mar 09 14:53:35 pav cloud-init[651]: ci-info: | Route | Destination |   Gateway   |     Genmask     | Interface | Flags |
+Mar 09 14:53:35 pav cloud-init[651]: ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+Mar 09 14:53:35 pav cloud-init[651]: ci-info: |   0   |   0.0.0.0   | 10.211.55.1 |     0.0.0.0     |   enp0s1  |   UG  |
+Mar 09 14:53:35 pav cloud-init[651]: ci-info: |   1   | 10.211.55.0 |   0.0.0.0   |  255.255.255.0  |   enp0s1  |   U   |
+Mar 09 14:53:35 pav cloud-init[651]: ci-info: |   2   | 10.211.55.1 |   0.0.0.0   | 255.255.255.255 |   enp0s1  |   UH  |
+Mar 09 14:53:35 pav cloud-init[651]: ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+Mar 09 14:53:35 pav cloud-init[651]: ci-info: +++++++++++++++++++++++++Route IPv6 info+++++++++++++++++++++++++
+Mar 09 14:53:36 pav cloud-init[651]: ci-info: +-------+-------------------------+---------+-----------+-------+
+Mar 09 14:53:36 pav cloud-init[651]: ci-info: | Route |       Destination       | Gateway | Interface | Flags |
+Mar 09 14:53:36 pav cloud-init[651]: ci-info: +-------+-------------------------+---------+-----------+-------+
+Mar 09 14:53:36 pav cloud-init[651]: ci-info: |   1   | fd58:b594:121:dfb0::/64 |    ::   |   enp0s1  |   Ue  |
+Mar 09 14:53:36 pav cloud-init[651]: ci-info: |   2   |        fe80::/64        |    ::   |   enp0s1  |   U   |
+Mar 09 14:53:36 pav cloud-init[651]: ci-info: |   4   |          local          |    ::   |   enp0s1  |   U   |
+Mar 09 14:53:36 pav cloud-init[651]: ci-info: |   5   |          local          |    ::   |   enp0s1  |   U   |
+Mar 09 14:53:36 pav cloud-init[651]: ci-info: |   6   |        multicast        |    ::   |   enp0s1  |   U   |
+Mar 09 14:53:36 pav cloud-init[651]: ci-info: +-------+-------------------------+---------+-----------+-------+
+Mar 09 14:53:36 pav systemd[1]: Finished Initial cloud-init job (metadata service crawler).
+-- Subject: A start job for unit cloud-init.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit cloud-init.service has finished successfully.
+-- 
+-- The job identifier is 158.
+Mar 09 14:53:36 pav systemd[1]: Reached target Cloud-config availability.
+-- Subject: A start job for unit cloud-config.target has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit cloud-config.target has finished successfully.
+-- 
+-- The job identifier is 157.
+Mar 09 14:53:36 pav systemd[1]: Reached target Network is Online.
+-- Subject: A start job for unit network-online.target has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit network-online.target has finished successfully.
+-- 
+-- The job identifier is 72.
+Mar 09 14:53:36 pav systemd[1]: Reached target System Initialization.
+-- Subject: A start job for unit sysinit.target has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit sysinit.target has finished successfully.
+-- 
+-- The job identifier is 7.
+Mar 09 14:53:36 pav systemd[1]: Condition check resulted in Process error reports when automatic reporting is enabled (file watch) being skipped.
+-- Subject: A start job for unit apport-autoreport.path has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit apport-autoreport.path has finished successfully.
+-- 
+-- The job identifier is 100.
+Mar 09 14:53:36 pav systemd[1]: Started Daily apt download activities.
+-- Subject: A start job for unit apt-daily.timer has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit apt-daily.timer has finished successfully.
+-- 
+-- The job identifier is 95.
+Mar 09 14:53:36 pav systemd[1]: Started Daily apt upgrade and clean activities.
+-- Subject: A start job for unit apt-daily-upgrade.timer has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit apt-daily-upgrade.timer has finished successfully.
+-- 
+-- The job identifier is 90.
+Mar 09 14:53:36 pav systemd[1]: Started Periodic ext4 Online Metadata Check for All Filesystems.
+-- Subject: A start job for unit e2scrub_all.timer has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit e2scrub_all.timer has finished successfully.
+-- 
+-- The job identifier is 92.
+Mar 09 14:53:36 pav systemd[1]: Started Discard unused blocks once a week.
+-- Subject: A start job for unit fstrim.timer has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit fstrim.timer has finished successfully.
+-- 
+-- The job identifier is 96.
+Mar 09 14:53:36 pav systemd[1]: Started Refresh fwupd metadata regularly.
+-- Subject: A start job for unit fwupd-refresh.timer has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit fwupd-refresh.timer has finished successfully.
+-- 
+-- The job identifier is 89.
+Mar 09 14:53:36 pav systemd[1]: Started Daily rotation of log files.
+-- Subject: A start job for unit logrotate.timer has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit logrotate.timer has finished successfully.
+-- 
+-- The job identifier is 94.
+Mar 09 14:53:36 pav systemd[1]: Started Daily man-db regeneration.
+-- Subject: A start job for unit man-db.timer has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit man-db.timer has finished successfully.
+-- 
+-- The job identifier is 91.
+Mar 09 14:53:36 pav systemd[1]: Started Message of the Day.
+-- Subject: A start job for unit motd-news.timer has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit motd-news.timer has finished successfully.
+-- 
+-- The job identifier is 93.
+Mar 09 14:53:36 pav systemd[1]: Condition check resulted in Timer to automatically fetch and run repair assertions being skipped.
+-- Subject: A start job for unit snapd.snap-repair.timer has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit snapd.snap-repair.timer has finished successfully.
+-- 
+-- The job identifier is 87.
+Mar 09 14:53:36 pav systemd[1]: Started Daily Cleanup of Temporary Directories.
+-- Subject: A start job for unit systemd-tmpfiles-clean.timer has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit systemd-tmpfiles-clean.timer has finished successfully.
+-- 
+-- The job identifier is 97.
+Mar 09 14:53:36 pav systemd[1]: Started Ubuntu Advantage Timer for running repeated jobs.
+-- Subject: A start job for unit ua-timer.timer has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit ua-timer.timer has finished successfully.
+-- 
+-- The job identifier is 88.
+Mar 09 14:53:36 pav systemd[1]: Reached target Paths.
+-- Subject: A start job for unit paths.target has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit paths.target has finished successfully.
+-- 
+-- The job identifier is 99.
+Mar 09 14:53:36 pav systemd[1]: Reached target Timers.
+-- Subject: A start job for unit timers.target has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit timers.target has finished successfully.
+-- 
+-- The job identifier is 86.
+Mar 09 14:53:36 pav systemd[1]: Condition check resulted in Unix socket for apport crash forwarding being skipped.
+-- Subject: A start job for unit apport-forward.socket has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit apport-forward.socket has finished successfully.
+-- 
+-- The job identifier is 111.
+Mar 09 14:53:36 pav systemd[1]: Listening on cloud-init hotplug hook socket.
+-- Subject: A start job for unit cloud-init-hotplugd.socket has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit cloud-init-hotplugd.socket has finished successfully.
+-- 
+-- The job identifier is 161.
+Mar 09 14:53:36 pav systemd[1]: Listening on D-Bus System Message Bus Socket.
+-- Subject: A start job for unit dbus.socket has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit dbus.socket has finished successfully.
+-- 
+-- The job identifier is 103.
+Mar 09 14:53:36 pav systemd[1]: Listening on Open-iSCSI iscsid Socket.
+-- Subject: A start job for unit iscsid.socket has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit iscsid.socket has finished successfully.
+-- 
+-- The job identifier is 104.
+Mar 09 14:53:37 pav systemd[1]: Listening on Socket unix for snap application lxd.daemon.
+-- Subject: A start job for unit snap.lxd.daemon.unix.socket has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit snap.lxd.daemon.unix.socket has finished successfully.
+-- 
+-- The job identifier is 109.
+Mar 09 14:53:37 pav systemd[1]: Starting Socket activation for snappy daemon.
+-- Subject: A start job for unit snapd.socket has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit snapd.socket has begun execution.
+-- 
+-- The job identifier is 102.
+Mar 09 14:53:37 pav systemd[1]: Listening on UUID daemon activation socket.
+-- Subject: A start job for unit uuidd.socket has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit uuidd.socket has finished successfully.
+-- 
+-- The job identifier is 105.
+Mar 09 14:53:37 pav systemd[1]: Condition check resulted in Login to default iSCSI targets being skipped.
+-- Subject: A start job for unit open-iscsi.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit open-iscsi.service has finished successfully.
+-- 
+-- The job identifier is 71.
+Mar 09 14:53:37 pav systemd[1]: Reached target Remote File Systems (Pre).
+-- Subject: A start job for unit remote-fs-pre.target has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit remote-fs-pre.target has finished successfully.
+-- 
+-- The job identifier is 77.
+Mar 09 14:53:37 pav systemd[1]: Reached target Remote File Systems.
+-- Subject: A start job for unit remote-fs.target has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit remote-fs.target has finished successfully.
+-- 
+-- The job identifier is 132.
+Mar 09 14:53:37 pav systemd[1]: Starting Availability of block devices...
+-- Subject: A start job for unit blk-availability.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit blk-availability.service has begun execution.
+-- 
+-- The job identifier is 38.
+Mar 09 14:53:37 pav systemd[1]: Listening on Socket activation for snappy daemon.
+-- Subject: A start job for unit snapd.socket has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit snapd.socket has finished successfully.
+-- 
+-- The job identifier is 102.
+Mar 09 14:53:37 pav systemd[1]: Reached target Sockets.
+-- Subject: A start job for unit sockets.target has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit sockets.target has finished successfully.
+-- 
+-- The job identifier is 101.
+Mar 09 14:53:37 pav systemd[1]: Reached target Basic System.
+-- Subject: A start job for unit basic.target has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit basic.target has finished successfully.
+-- 
+-- The job identifier is 3.
+Mar 09 14:53:37 pav systemd[1]: Starting Accounts Service...
+-- Subject: A start job for unit accounts-daemon.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit accounts-daemon.service has begun execution.
+-- 
+-- The job identifier is 178.
+Mar 09 14:53:37 pav systemd[1]: Starting LSB: automatic crash report generation...
+-- Subject: A start job for unit apport.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit apport.service has begun execution.
+-- 
+-- The job identifier is 129.
+Mar 09 14:53:37 pav systemd[1]: Starting Deferred execution scheduler...
+-- Subject: A start job for unit atd.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit atd.service has begun execution.
+-- 
+-- The job identifier is 152.
+Mar 09 14:53:37 pav systemd[1]: Started Regular background program processing daemon.
+-- Subject: A start job for unit cron.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit cron.service has finished successfully.
+-- 
+-- The job identifier is 165.
+Mar 09 14:53:37 pav systemd[1]: Started D-Bus System Message Bus.
+-- Subject: A start job for unit dbus.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit dbus.service has finished successfully.
+-- 
+-- The job identifier is 122.
+Mar 09 14:53:37 pav systemd[1]: Started Save initial kernel messages after boot.
+-- Subject: A start job for unit dmesg.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit dmesg.service has finished successfully.
+-- 
+-- The job identifier is 146.
+Mar 09 14:53:37 pav systemd[1]: Starting Online ext4 Metadata Check for All Filesystems...
+-- Subject: A start job for unit e2scrub_all.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit e2scrub_all.service has begun execution.
+-- 
+-- The job identifier is 435.
+Mar 09 14:53:37 pav systemd[1]: Starting Remove Stale Online ext4 Metadata Check Snapshots...
+-- Subject: A start job for unit e2scrub_reap.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit e2scrub_reap.service has begun execution.
+-- 
+-- The job identifier is 180.
+Mar 09 14:53:37 pav systemd[1]: Condition check resulted in getty on tty2-tty6 if dbus and logind are not available being skipped.
+-- Subject: A start job for unit getty-static.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit getty-static.service has finished successfully.
+-- 
+-- The job identifier is 172.
+Mar 09 14:53:37 pav systemd[1]: Starting Record successful boot for GRUB...
+-- Subject: A start job for unit grub-common.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit grub-common.service has begun execution.
+-- 
+-- The job identifier is 176.
+Mar 09 14:53:37 pav systemd[1]: Started irqbalance daemon.
+-- Subject: A start job for unit irqbalance.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit irqbalance.service has finished successfully.
+-- 
+-- The job identifier is 115.
+Mar 09 14:53:37 pav systemd[1]: Starting Dispatcher daemon for systemd-networkd...
+-- Subject: A start job for unit networkd-dispatcher.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit networkd-dispatcher.service has begun execution.
+-- 
+-- The job identifier is 130.
+Mar 09 14:53:37 pav systemd[1]: Condition check resulted in Set the CPU Frequency Scaling governor being skipped.
+-- Subject: A start job for unit ondemand.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit ondemand.service has finished successfully.
+-- 
+-- The job identifier is 118.
+Mar 09 14:53:38 pav systemd[1]: Starting Authorization Manager...
+-- Subject: A start job for unit polkit.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit polkit.service has begun execution.
+-- 
+-- The job identifier is 148.
+Mar 09 14:53:38 pav systemd[1]: Condition check resulted in Pollinate to seed the pseudo random number generator being skipped.
+-- Subject: A start job for unit pollinate.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit pollinate.service has finished successfully.
+-- 
+-- The job identifier is 140.
+Mar 09 14:53:38 pav systemd[1]: Condition check resulted in fast remote file copy program daemon being skipped.
+-- Subject: A start job for unit rsync.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit rsync.service has finished successfully.
+-- 
+-- The job identifier is 151.
+Mar 09 14:53:38 pav systemd[1]: Starting System Logging Service...
+-- Subject: A start job for unit rsyslog.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit rsyslog.service has begun execution.
+-- 
+-- The job identifier is 124.
+Mar 09 14:53:38 pav systemd[1]: Starting Secure Boot updates for DB and DBX...
+-- Subject: A start job for unit secureboot-db.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit secureboot-db.service has begun execution.
+-- 
+-- The job identifier is 128.
+Mar 09 14:53:38 pav systemd[1]: Starting Service for snap application lxd.activate...
+-- Subject: A start job for unit snap.lxd.activate.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit snap.lxd.activate.service has begun execution.
+-- 
+-- The job identifier is 144.
+Mar 09 14:53:38 pav systemd[1]: Condition check resulted in Automatically repair incorrect owner/permissions on core devices being skipped.
+-- Subject: A start job for unit snapd.core-fixup.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit snapd.core-fixup.service has finished successfully.
+-- 
+-- The job identifier is 131.
+Mar 09 14:53:38 pav systemd[1]: Condition check resulted in Wait for the Ubuntu Core chooser trigger being skipped.
+-- Subject: A start job for unit snapd.recovery-chooser-trigger.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit snapd.recovery-chooser-trigger.service has finished successfully.
+-- 
+-- The job identifier is 173.
+Mar 09 14:53:38 pav systemd[1]: Reached target Login Prompts (Pre).
+-- Subject: A start job for unit getty-pre.target has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit getty-pre.target has finished successfully.
+-- 
+-- The job identifier is 174.
+Mar 09 14:53:38 pav systemd[1]: Starting Wait until snapd is fully seeded...
+-- Subject: A start job for unit snapd.seeded.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit snapd.seeded.service has begun execution.
+-- 
+-- The job identifier is 112.
+Mar 09 14:53:38 pav systemd[1]: Starting Snap Daemon...
+-- Subject: A start job for unit snapd.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit snapd.service has begun execution.
+-- 
+-- The job identifier is 175.
+Mar 09 14:53:38 pav cron[660]: (CRON) INFO (pidfile fd = 3)
+Mar 09 14:53:38 pav systemd[1]: Starting OpenBSD Secure Shell server...
+-- Subject: A start job for unit ssh.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit ssh.service has begun execution.
+-- 
+-- The job identifier is 126.
+Mar 09 14:53:38 pav systemd[1]: Starting Login Service...
+-- Subject: A start job for unit systemd-logind.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit systemd-logind.service has begun execution.
+-- 
+-- The job identifier is 141.
+Mar 09 14:53:38 pav systemd[1]: Starting Permit User Sessions...
+-- Subject: A start job for unit systemd-user-sessions.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit systemd-user-sessions.service has begun execution.
+-- 
+-- The job identifier is 163.
+Mar 09 14:53:38 pav systemd[1]: Condition check resulted in Thermal Daemon Service being skipped.
+-- Subject: A start job for unit thermald.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit thermald.service has finished successfully.
+-- 
+-- The job identifier is 121.
+Mar 09 14:53:38 pav systemd[1]: Condition check resulted in Ubuntu Advantage reboot cmds being skipped.
+-- Subject: A start job for unit ua-reboot-cmds.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit ua-reboot-cmds.service has finished successfully.
+-- 
+-- The job identifier is 137.
+Mar 09 14:53:39 pav cron[660]: (CRON) INFO (Running @reboot jobs)
+Mar 09 14:53:38 pav systemd[1]: Starting Disk Manager...
+-- Subject: A start job for unit udisks2.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit udisks2.service has begun execution.
+-- 
+-- The job identifier is 181.
+Mar 09 14:53:38 pav systemd[1]: Starting Rotate log files...
+-- Subject: A start job for unit logrotate.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit logrotate.service has begun execution.
+-- 
+-- The job identifier is 336.
+Mar 09 14:53:39 pav systemd[1]: Starting Daily man-db regeneration...
+-- Subject: A start job for unit man-db.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit man-db.service has begun execution.
+-- 
+-- The job identifier is 237.
+Mar 09 14:53:39 pav systemd[1]: Finished Availability of block devices.
+-- Subject: A start job for unit blk-availability.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit blk-availability.service has finished successfully.
+-- 
+-- The job identifier is 38.
+Mar 09 14:53:39 pav systemd[1]: Started Deferred execution scheduler.
+-- Subject: A start job for unit atd.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit atd.service has finished successfully.
+-- 
+-- The job identifier is 152.
+Mar 09 14:53:39 pav systemd[1]: e2scrub_all.service: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit e2scrub_all.service has successfully entered the 'dead' state.
+Mar 09 14:53:39 pav systemd[1]: Finished Online ext4 Metadata Check for All Filesystems.
+-- Subject: A start job for unit e2scrub_all.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit e2scrub_all.service has finished successfully.
+-- 
+-- The job identifier is 435.
+Mar 09 14:53:40 pav systemd[1]: Finished Permit User Sessions.
+-- Subject: A start job for unit systemd-user-sessions.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit systemd-user-sessions.service has finished successfully.
+-- 
+-- The job identifier is 163.
+Mar 09 14:53:40 pav systemd[1]: Starting Hold until boot process finishes up...
+-- Subject: A start job for unit plymouth-quit-wait.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit plymouth-quit-wait.service has begun execution.
+-- 
+-- The job identifier is 166.
+Mar 09 14:53:40 pav systemd[1]: Starting Terminate Plymouth Boot Screen...
+-- Subject: A start job for unit plymouth-quit.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit plymouth-quit.service has begun execution.
+-- 
+-- The job identifier is 177.
+Mar 09 14:53:40 pav udisksd[681]: [0;1;39m[0;1;31m[0;1;39mudisks daemon version 2.8.4 starting[0m
+Mar 09 14:53:40 pav systemd[1]: plymouth-quit-wait.service: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit plymouth-quit-wait.service has successfully entered the 'dead' state.
+Mar 09 14:53:41 pav sbkeysync[692]: Filesystem keystore:
+Mar 09 14:53:41 pav sbkeysync[692]:   /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin [7085 bytes]
+Mar 09 14:53:41 pav sbkeysync[692]: firmware keys:
+Mar 09 14:53:41 pav sbkeysync[692]:   PK:
+Mar 09 14:53:41 pav sbkeysync[692]:     /O=Turing Software, LLC/CN=UTM Virtual Machine Platform Key
+Mar 09 14:53:41 pav sbkeysync[692]:   KEK:
+Mar 09 14:53:41 pav sbkeysync[692]:     /C=US/ST=Washington/L=Redmond/O=Microsoft Corporation/CN=Microsoft Corporation KEK CA 2011
+Mar 09 14:53:41 pav sbkeysync[692]:     /O=Turing Software, LLC/CN=UTM Virtual Machine Platform Key
+Mar 09 14:53:41 pav sbkeysync[692]:   db:
+Mar 09 14:53:41 pav sbkeysync[692]:     /C=US/ST=Washington/L=Redmond/O=Microsoft Corporation/CN=Microsoft Corporation UEFI CA 2011
+Mar 09 14:53:41 pav sbkeysync[692]:     /C=US/ST=Washington/L=Redmond/O=Microsoft Corporation/CN=Microsoft Windows Production PCA 2011
+Mar 09 14:53:41 pav sbkeysync[692]:   dbx:
+Mar 09 14:53:41 pav sbkeysync[692]:     e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+Mar 09 14:53:41 pav sbkeysync[692]: filesystem keys:
+Mar 09 14:53:41 pav sbkeysync[692]:   PK:
+Mar 09 14:53:41 pav sbkeysync[692]:   KEK:
+Mar 09 14:53:41 pav sbkeysync[692]:   db:
+Mar 09 14:53:41 pav sbkeysync[692]:   dbx:
+Mar 09 14:53:41 pav sbkeysync[692]:     45c7c8ae750acfbb48fc37527d6412dd644daed8913ccd8a24c94d856967df8e
+Mar 09 14:53:41 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:41 pav sbkeysync[692]:     64575bd912789a2e14ad56f6341f52af6bf80cf94400785975e9f04e2d64d745
+Mar 09 14:53:41 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:41 pav sbkeysync[692]:     939aeef4f5fa51e23340c3f2e49048ce8872526afdf752c3a7f3a3f2bc9f6049
+Mar 09 14:53:41 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:41 pav sbkeysync[692]:     3b0287533e0cc3d0ec1aa823cbf0a941aad8721579d1c499802dd1c3a636b8a9
+Mar 09 14:53:41 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:41 pav sbkeysync[692]:     c83cb13922ad99f560744675dd37cc94dcad5a1fcba6472fee341171d939e884
+Mar 09 14:53:41 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:41 pav sbkeysync[692]:     77dd190fa30d88ff5e3b011a0ae61e6209780c130b535ecb87e6f0888a0b6b2f
+Mar 09 14:53:41 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:41 pav sbkeysync[692]:     55b99b0de53dbcfe485aa9c737cf3fb616ef3d91fab599aa7cab19eda763b5ba
+Mar 09 14:53:41 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:41 pav sbkeysync[692]:     ca171d614a8d7e121c93948cd0fe55d39981f9d11aa96e03450a415227c2c65b
+Mar 09 14:53:41 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:41 pav sbkeysync[692]:     fecfb232d12e994b6d485d2c7167728aa5525984ad5ca61e7516221f079a1436
+Mar 09 14:53:41 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:41 pav sbkeysync[692]:     fe63a84f782cc9d3fcf2ccf9fc11fbd03760878758d26285ed12669bdc6e6d01
+Mar 09 14:53:41 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:41 pav sbkeysync[692]:     fddd6e3d29ea84c7743dad4a1bdbc700b5fec1b391f932409086acc71dd6dbd8
+Mar 09 14:53:41 pav dbus-daemon[661]: dbus[661]: Unknown group "power" in message bus configuration file
+Mar 09 14:53:41 pav apport[658]:  * Starting automatic crash report generation: apport
+Mar 09 14:53:41 pav rsyslogd[671]: imuxsock: Acquired UNIX socket '/run/systemd/journal/syslog' (fd 3) from systemd.  [v8.2001.0]
+Mar 09 14:53:40 pav systemd[1]: Finished Hold until boot process finishes up.
+-- Subject: A start job for unit plymouth-quit-wait.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit plymouth-quit-wait.service has finished successfully.
+-- 
+-- The job identifier is 166.
+Mar 09 14:53:41 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:41 pav sbkeysync[692]:     e92c22eb3b5642d65c1ec2caf247d2594738eebb7fb3841a44956f59e2b0d1fa
+Mar 09 14:53:41 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:41 pav sbkeysync[692]:     d8cbeb9735f5672b367e4f96cdc74969615d17074ae96c724d42ce0216f8f3fa
+Mar 09 14:53:41 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:41 pav sbkeysync[692]:     ce3bfabe59d67ce8ac8dfd4a16f7c43ef9c224513fbc655957d735fa29f540ce
+Mar 09 14:53:41 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:41 pav sbkeysync[692]:     cb6b858b40d3a098765815b592c1514a49604fafd60819da88d7a76e9778fef7
+Mar 09 14:53:41 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:41 pav sbkeysync[692]:     c90f336617b8e7f983975413c997f10b73eb267fd8a10cb9e3bdbfc667abdb8b
+Mar 09 14:53:41 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:41 pav sbkeysync[692]:     c617c1a8b1ee2a811c28b5a81b4c83d7c98b5b0c27281d610207ebe692c2967f
+Mar 09 14:53:41 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:41 pav sbkeysync[692]:     c409bdac4775add8db92aa22b5b718fb8c94a1462c1fe9a416b95d8a3388c2fc
+Mar 09 14:53:41 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:41 pav sbkeysync[692]:     bc87a668e81966489cb508ee805183c19e6acd24cf17799ca062d2e384da0ea7
+Mar 09 14:53:41 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:41 pav sbkeysync[692]:     b97a0889059c035ff1d54b6db53b11b9766668d9f955247c028b2837d7a04cd9
+Mar 09 14:53:41 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:41 pav sbkeysync[692]:     b8f078d983a24ac433216393883514cd932c33af18e7dd70884c8235f4275736
+Mar 09 14:53:41 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:41 pav sbkeysync[692]:     b54f1ee636631fad68058d3b0937031ac1b90ccb17062a391cca68afdbe40d55
+Mar 09 14:53:41 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:41 pav sbkeysync[692]:     afe2030afb7d2cda13f9fa333a02e34f6751afec11b010dbcd441fdf4c4002b3
+Mar 09 14:53:41 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:41 pav sbkeysync[692]:     aeebae3151271273ed95aa2e671139ed31a98567303a332298f83709a9d55aa1
+Mar 09 14:53:41 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:41 pav sbkeysync[692]:     ad6826e1946d26d3eaf3685c88d97d85de3b4dcb3d0ee2ae81c70560d13c5720
+Mar 09 14:53:41 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:41 pav sbkeysync[692]:     a7f32f508d4eb0fead9a087ef94ed1ba0aec5de6f7ef6ff0a62b93bedf5d458d
+Mar 09 14:53:41 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:41 pav rsyslogd[671]: rsyslogd's groupid changed to 110
+Mar 09 14:53:41 pav apport[658]:    ...done.
+Mar 09 14:53:40 pav systemd[1]: Starting Set console scheme...
+-- Subject: A start job for unit setvtrgb.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit setvtrgb.service has begun execution.
+-- 
+-- The job identifier is 24.
+Mar 09 14:53:41 pav sbkeysync[692]:     a6b5151f3655d3a2af0d472759796be4a4200e5495a7d869754c4848857408a7
+Mar 09 14:53:41 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:41 pav sbkeysync[692]:     9e4a69173161682e55fde8fef560eb88ec1ffedcaf04001f66c0caf707b2b734
+Mar 09 14:53:41 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:41 pav sbkeysync[692]:     9998d363c491be16bd74ba10b94d9291001611736fdca643a36664bc0f315a42
+Mar 09 14:53:41 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:41 pav sbkeysync[692]:     8d8ea289cfe70a1c07ab7365cb28ee51edd33cf2506de888fbadd60ebf80481c
+Mar 09 14:53:41 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:41 pav sbkeysync[692]:     8bf434b49e00ccf71502a2cd900865cb01ec3b3da03c35be505fdf7bd563f521
+Mar 09 14:53:41 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:41 pav sbkeysync[692]:     8ad64859f195b5f58dafaa940b6a6167acd67a886e8f469364177221c55945b9
+Mar 09 14:53:41 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:41 pav sbkeysync[692]:     895a9785f617ca1d7ed44fc1a1470b71f3f1223862d9ff9dcc3ae2df92163daf
+Mar 09 14:53:41 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:41 pav sbkeysync[692]:     82db3bceb4f60843ce9d97c3d187cd9b5941cd3de8100e586f2bda5637575f67
+Mar 09 14:53:41 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:41 pav sbkeysync[692]:     81a8b965bb84d3876b9429a95481cc955318cfaa1412d808c8a33bfd33fff0e4
+Mar 09 14:53:41 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:41 pav sbkeysync[692]:     7827af99362cfaf0717dade4b1bfe0438ad171c15addc248b75bf8caa44bb2c5
+Mar 09 14:53:41 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:41 pav sbkeysync[692]:     72e0bd1867cf5d9d56ab158adf3bddbc82bf32a8d8aa1d8c5e2f6df29428d6d8
+Mar 09 14:53:41 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:41 pav sbkeysync[692]:     726b3eb654046a30f3f83d9b96ce03f670e9a806d1708a0371e62dc49d2c23c1
+Mar 09 14:53:41 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:41 pav sbkeysync[692]:     71f2906fd222497e54a34662ab2497fcc81020770ff51368e9e3d9bfcbfd6375
+Mar 09 14:53:41 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:41 pav sbkeysync[692]:     6f1428ff71c9db0ed5af1f2e7bbfcbab647cc265ddf5b293cdb626f50a3a785e
+Mar 09 14:53:41 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:41 pav sbkeysync[692]:     6c8854478dd559e29351b826c06cb8bfef2b94ad3538358772d193f82ed1ca11
+Mar 09 14:53:41 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:41 pav sbkeysync[692]:     6b1d138078e4418aa68deb7bb35e066092cf479eeb8ce4cd12e7d072ccb42f66
+Mar 09 14:53:41 pav rsyslogd[671]: rsyslogd's userid changed to 104
+Mar 09 14:53:40 pav systemd[1]: plymouth-quit.service: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit plymouth-quit.service has successfully entered the 'dead' state.
+Mar 09 14:53:42 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:42 pav sbkeysync[692]:     5ae949ea8855eb93e439dbc65bda2e42852c2fdf6789fa146736e3c3410f2b5c
+Mar 09 14:53:42 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:42 pav sbkeysync[692]:     518831fe7382b514d03e15c621228b8ab65479bd0cbfa3c5c1d0f48d9c306135
+Mar 09 14:53:42 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:42 pav sbkeysync[692]:     47cc086127e2069a86e03a6bef2cd410f8c55a6d6bdb362168c31b2ce32a5adf
+Mar 09 14:53:42 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:42 pav sbkeysync[692]:     4397daca839e7f63077cb50c92df43bc2d2fb2a8f59f26fc7a0e4bd4d9751692
+Mar 09 14:53:42 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:42 pav sbkeysync[692]:     3fce9b9fdf3ef09d5452b0f95ee481c2b7f06d743a737971558e70136ace3e73
+Mar 09 14:53:42 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:42 pav sbkeysync[692]:     3841d221368d1583d75c0a02e62160394d6c4e0a6760b6f607b90362bc855b02
+Mar 09 14:53:42 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:42 pav sbkeysync[692]:     3608edbaf5ad0f41a414a1777abf2faf5e670334675ec3995e6935829e0caad2
+Mar 09 14:53:42 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:42 pav sbkeysync[692]:     306628fa5477305728ba4a467de7d0387a54f569d3769fce5e75ec89d28d1593
+Mar 09 14:53:42 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:42 pav sbkeysync[692]:     2e70916786a6f773511fa7181fab0f1d70b557c6322ea923b2a8d3b92b51af7d
+Mar 09 14:53:42 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:42 pav sbkeysync[692]:     2c73d93325ba6dcbe589d4a4c63c5b935559ef92fbf050ed50c4e2085206f17d
+Mar 09 14:53:42 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:42 pav sbkeysync[692]:     2bbf2ca7b8f1d91f27ee52b6fb2a5dd049b85a2b9b529c5d6662068104b055f8
+Mar 09 14:53:42 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:42 pav sbkeysync[692]:     2b99cf26422e92fe365fbf4bc30d27086c9ee14b7a6fff44fb2f6b9001699939
+Mar 09 14:53:42 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:42 pav sbkeysync[692]:     18333429ff0562ed9f97033e1148dceee52dbe2e496d5410b5cfd6c864d2d10f
+Mar 09 14:53:42 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:42 pav sbkeysync[692]:     174e3a0b5b43c6a607bbd3404f05341e3dcf396267ce94f8b50e2e23a9da920c
+Mar 09 14:53:42 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:42 pav sbkeysync[692]:     106faceacfecfd4e303b74f480a08098e2d0802b936f8ec774ce21f31686689c
+Mar 09 14:53:42 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:41 pav rsyslogd[671]: [origin software="rsyslogd" swVersion="8.2001.0" x-pid="671" x-info="https://www.rsyslog.com"] start
+Mar 09 14:53:40 pav systemd[1]: Finished Terminate Plymouth Boot Screen.
+-- Subject: A start job for unit plymouth-quit.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit plymouth-quit.service has finished successfully.
+-- 
+-- The job identifier is 177.
+Mar 09 14:53:42 pav sbkeysync[692]:     0dc9f3fb99962148c3ca833632758d3ed4fc8d0b0007b95b31e6528f2acd5bError writing key update: Invalid argument
+Mar 09 14:53:42 pav sbkeysync[692]: Error syncing keystore file /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:42 pav sbkeysync[692]: fc
+Mar 09 14:53:42 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:42 pav sbkeysync[692]:     0d0dbeca6f29eca06f331a7d72e4884b12097fb348983a2a14a0d73f4f10140f
+Mar 09 14:53:42 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:42 pav sbkeysync[692]:     0c189339762df336ab3dd006a463df715a39cfb0f492465c600e6c6bd7bd898c
+Mar 09 14:53:42 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:42 pav sbkeysync[692]:     0bbb4392daac7ab89b30a4ac657531b97bfaab04f90b0dafe5f9b6eb90a06374
+Mar 09 14:53:42 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:42 pav sbkeysync[692]:     09df5f4e511208ec78b96d12d08125fdb603868de39f6f72927852599b659c26
+Mar 09 14:53:42 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:42 pav sbkeysync[692]:     07e6c6a858646fb1efc67903fe28b116011f2367fe92e6be2b36999eff39d09e
+Mar 09 14:53:42 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:42 pav sbkeysync[692]:     075eea060589548ba060b2feed10da3c20c7fe9b17cd026b94e8a683b8115238
+Mar 09 14:53:42 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:42 pav sbkeysync[692]:     90fbe70e69d633408d3e170c6832dbb2d209e0272527dfb63d49d29572a6f44c
+Mar 09 14:53:42 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:42 pav sbkeysync[692]:     29c6eb52b43c3aa18b2cd8ed6ea8607cef3cfae1bafe1165755cf2e614844a44
+Mar 09 14:53:42 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:42 pav sbkeysync[692]:     d063ec28f67eba53f1642dbf7dff33c6a32add869f6013fe162e2c32f1cbe56d
+Mar 09 14:53:42 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:42 pav sbkeysync[692]:     d626157e1d6a718bc124ab8da27cbb65072ca03a7b6b257dbdcbbd60f65ef3d1
+Mar 09 14:53:42 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:42 pav sbkeysync[692]:     5391c3a2fb112102a6aa1edc25ae77e19f5d6f09cd09eeb2509922bfcd5992ea
+Mar 09 14:53:42 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:42 pav sbkeysync[692]:     58fb941aef95a25943b3fb5f2510a0df3fe44c58c95e0ab80487297568ab9771
+Mar 09 14:53:42 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:42 pav sbkeysync[692]:     c3a99a460da464a057c3586d83cef5f4ae08b7103979ed8932742df0ed530c66
+Mar 09 14:53:42 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:42 pav sbkeysync[692]:     e6ca68e94146629af03f69c2f86e6bef62f930b37c6fbcc878b78df98c0334e5
+Mar 09 14:53:41 pav /usr/sbin/irqbalance[667]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mBalancing is ineffective on systems with a single cpu.  Shutting down[0m
+Mar 09 14:53:40 pav systemd[1]: Finished Set console scheme.
+-- Subject: A start job for unit setvtrgb.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit setvtrgb.service has finished successfully.
+-- 
+-- The job identifier is 24.
+Mar 09 14:53:42 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:42 pav sbkeysync[692]:     1aec84b84b6c65a51220a9be7181965230210d62d6d33c48999c6b295a2b0a06
+Mar 09 14:53:42 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:42 pav sbkeysync[692]:     363384d14d1f2e0b7815626484c459ad57a318ef4396266048d058c5a19bbf76
+Mar 09 14:53:42 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:42 pav sbkeysync[692]:     c5d9d8a186e2c82d09afaa2a6f7f2e73870d3e64f72c4e08ef67796a840f0fbd
+Mar 09 14:53:42 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:42 pav sbkeysync[692]:     f52f83a3fa9cfbd6920f722824dbe4034534d25b8507246b3b957dac6e1bce7a
+Mar 09 14:53:42 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:42 pav sbkeysync[692]:     80b4d96931bf0d02fd91a61e19d14f1da452e66db2408ca8604d411f92659f0a
+Mar 09 14:53:42 pav sbkeysync[692]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:42 pav sbkeysync[692]: New keys in filesystem:
+Mar 09 14:53:42 pav sbkeysync[692]:  /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Mar 09 14:53:42 pav sbkeysync[692]: Inserting key update /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin into dbx
+Mar 09 14:53:41 pav dbus-daemon[661]: [system] AppArmor D-Bus mediation is enabled
+Mar 09 14:53:40 pav systemd[1]: Created slice system-getty.slice.
+-- Subject: A start job for unit system-getty.slice has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit system-getty.slice has finished successfully.
+-- 
+-- The job identifier is 169.
+Mar 09 14:53:40 pav systemd[1]: Started Getty on tty1.
+-- Subject: A start job for unit getty@tty1.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit getty@tty1.service has finished successfully.
+-- 
+-- The job identifier is 168.
+Mar 09 14:53:40 pav systemd[1]: Reached target Login Prompts.
+-- Subject: A start job for unit getty.target has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit getty.target has finished successfully.
+-- 
+-- The job identifier is 167.
+Mar 09 14:53:40 pav systemd[1]: e2scrub_reap.service: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit e2scrub_reap.service has successfully entered the 'dead' state.
+Mar 09 14:53:40 pav systemd[1]: Finished Remove Stale Online ext4 Metadata Check Snapshots.
+-- Subject: A start job for unit e2scrub_reap.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit e2scrub_reap.service has finished successfully.
+-- 
+-- The job identifier is 180.
+Mar 09 14:53:40 pav systemd[1]: grub-common.service: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit grub-common.service has successfully entered the 'dead' state.
+Mar 09 14:53:40 pav systemd[1]: Finished Record successful boot for GRUB.
+-- Subject: A start job for unit grub-common.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit grub-common.service has finished successfully.
+-- 
+-- The job identifier is 176.
+Mar 09 14:53:40 pav systemd[1]: Starting GRUB failed boot detection...
+-- Subject: A start job for unit grub-initrd-fallback.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit grub-initrd-fallback.service has begun execution.
+-- 
+-- The job identifier is 127.
+Mar 09 14:53:40 pav systemd[1]: secureboot-db.service: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit secureboot-db.service has successfully entered the 'dead' state.
+Mar 09 14:53:40 pav systemd[1]: Finished Secure Boot updates for DB and DBX.
+-- Subject: A start job for unit secureboot-db.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit secureboot-db.service has finished successfully.
+-- 
+-- The job identifier is 128.
+Mar 09 14:53:41 pav systemd[1]: Started System Logging Service.
+-- Subject: A start job for unit rsyslog.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit rsyslog.service has finished successfully.
+-- 
+-- The job identifier is 124.
+Mar 09 14:53:41 pav systemd[1]: irqbalance.service: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit irqbalance.service has successfully entered the 'dead' state.
+Mar 09 14:53:41 pav systemd[1]: grub-initrd-fallback.service: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit grub-initrd-fallback.service has successfully entered the 'dead' state.
+Mar 09 14:53:41 pav systemd[1]: Finished GRUB failed boot detection.
+-- Subject: A start job for unit grub-initrd-fallback.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit grub-initrd-fallback.service has finished successfully.
+-- 
+-- The job identifier is 127.
+Mar 09 14:53:41 pav systemd[1]: Started LSB: automatic crash report generation.
+-- Subject: A start job for unit apport.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit apport.service has finished successfully.
+-- 
+-- The job identifier is 129.
+Mar 09 14:53:42 pav systemd[1]: logrotate.service: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit logrotate.service has successfully entered the 'dead' state.
+Mar 09 14:53:42 pav systemd[1]: Finished Rotate log files.
+-- Subject: A start job for unit logrotate.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit logrotate.service has finished successfully.
+-- 
+-- The job identifier is 336.
+Mar 09 14:53:42 pav sshd[726]: Server listening on 0.0.0.0 port 22.
+Mar 09 14:53:42 pav systemd[1]: Started OpenBSD Secure Shell server.
+-- Subject: A start job for unit ssh.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit ssh.service has finished successfully.
+-- 
+-- The job identifier is 126.
+Mar 09 14:53:42 pav sshd[726]: Server listening on :: port 22.
+Mar 09 14:53:43 pav udisksd[681]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mfailed to load module mdraid: libbd_mdraid.so.2: cannot open shared object file: No such file or directory[0m
+Mar 09 14:53:43 pav polkitd[669]: started daemon version 0.105 using authority implementation `local' version `0.105'
+Mar 09 14:53:43 pav systemd[1]: Started Authorization Manager.
+-- Subject: A start job for unit polkit.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit polkit.service has finished successfully.
+-- 
+-- The job identifier is 148.
+Mar 09 14:53:43 pav systemd[1]: Starting Modem Manager...
+-- Subject: A start job for unit ModemManager.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit ModemManager.service has begun execution.
+-- 
+-- The job identifier is 147.
+Mar 09 14:53:43 pav udisksd[681]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mFailed to load the 'mdraid' libblockdev plugin[0m
+Mar 09 14:53:43 pav systemd-logind[679]: New seat seat0.
+-- Subject: A new seat seat0 is now available
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- Documentation: https://www.freedesktop.org/wiki/Software/systemd/multiseat
+-- 
+-- A new seat seat0 has been configured and is now available.
+Mar 09 14:53:43 pav systemd-logind[679]: Watching system buttons on /dev/input/event0 (Power Button)
+Mar 09 14:53:43 pav systemd-logind[679]: Watching system buttons on /dev/input/event3 (QEMU QEMU USB Keyboard)
+Mar 09 14:53:43 pav systemd[1]: Started Login Service.
+-- Subject: A start job for unit systemd-logind.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit systemd-logind.service has finished successfully.
+-- 
+-- The job identifier is 141.
+Mar 09 14:53:43 pav systemd[1]: Started Unattended Upgrades Shutdown.
+-- Subject: A start job for unit unattended-upgrades.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit unattended-upgrades.service has finished successfully.
+-- 
+-- The job identifier is 162.
+Mar 09 14:53:44 pav ModemManager[747]: <info>  ModemManager (version 1.18.6) starting in system bus...
+Mar 09 14:53:44 pav udisksd[681]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mError probing device: Error sending ATA command IDENTIFY DEVICE to '/dev/sda': Unexpected sense data returned:[0m
+                                  [0;1;38;5;185m0000: 70 00 05 00  00 00 00 0a  00 58 00 01  21 04 00 00    p........X..!...[0m
+                                  [0;1;38;5;185m0010: 00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00    ................[0m
+                                  [0;1;38;5;185m (g-io-error-quark, 0)[0m
+Mar 09 14:53:44 pav udisksd[681]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mError probing device: Error sending ATA command IDENTIFY PACKET DEVICE to '/dev/sr0': Unexpected sense data returned:[0m
+                                  [0;1;38;5;185m0000: 70 00 05 00  00 00 00 0a  00 58 00 01  21 04 00 00    p........X..!...[0m
+                                  [0;1;38;5;185m0010: 00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00    ................[0m
+                                  [0;1;38;5;185m (g-io-error-quark, 0)[0m
+Mar 09 14:53:45 pav systemd[1]: dmesg.service: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit dmesg.service has successfully entered the 'dead' state.
+Mar 09 14:53:45 pav systemd[1]: tmp-snap.rootfs_FemYn8.mount: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit tmp-snap.rootfs_FemYn8.mount has successfully entered the 'dead' state.
+Mar 09 14:53:45 pav systemd[1]: systemd-fsckd.service: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit systemd-fsckd.service has successfully entered the 'dead' state.
+Mar 09 14:53:45 pav accounts-daemon[657]: started daemon version 0.6.55
+Mar 09 14:53:45 pav systemd[1]: Started Accounts Service.
+-- Subject: A start job for unit accounts-daemon.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit accounts-daemon.service has finished successfully.
+-- 
+-- The job identifier is 178.
+Mar 09 14:53:46 pav systemd[1]: Started Modem Manager.
+-- Subject: A start job for unit ModemManager.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit ModemManager.service has finished successfully.
+-- 
+-- The job identifier is 147.
+Mar 09 14:53:46 pav udisksd[681]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mError probing device: Error sending ATA command IDENTIFY DEVICE to '/dev/sda': Unexpected sense data returned:[0m
+                                  [0;1;38;5;185m0000: 70 00 05 00  00 00 00 0a  00 58 00 01  21 04 00 00    p........X..!...[0m
+                                  [0;1;38;5;185m0010: 00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00    ................[0m
+                                  [0;1;38;5;185m (g-io-error-quark, 0)[0m
+Mar 09 14:53:46 pav udisksd[681]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mError probing device: Error sending ATA command IDENTIFY PACKET DEVICE to '/dev/sr0': Unexpected sense data returned:[0m
+                                  [0;1;38;5;185m0000: 70 00 05 00  00 00 00 0a  00 58 00 01  21 04 00 00    p........X..!...[0m
+                                  [0;1;38;5;185m0010: 00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00    ................[0m
+                                  [0;1;38;5;185m (g-io-error-quark, 0)[0m
+Mar 09 14:53:47 pav networkd-dispatcher[668]: No valid path found for iwconfig
+Mar 09 14:53:47 pav systemd[1]: Started Dispatcher daemon for systemd-networkd.
+-- Subject: A start job for unit networkd-dispatcher.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit networkd-dispatcher.service has finished successfully.
+-- 
+-- The job identifier is 130.
+Mar 09 14:53:48 pav systemd[1]: Started Disk Manager.
+-- Subject: A start job for unit udisks2.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit udisks2.service has finished successfully.
+-- 
+-- The job identifier is 181.
+Mar 09 14:53:48 pav udisksd[681]: [0;1;39m[0;1;31m[0;1;39mAcquired the name org.freedesktop.UDisks2 on the system message bus[0m
+Mar 09 14:53:48 pav snapd[677]: overlord.go:271: Acquiring state lock file
+Mar 09 14:53:48 pav snapd[677]: overlord.go:276: Acquired state lock file
+Mar 09 14:53:49 pav snapd[677]: daemon.go:247: started snapd/2.63+20.04ubuntu0.1 (series 16; classic) ubuntu/20.04 (amd64) linux/5.4.0-208-generic.
+Mar 09 14:53:49 pav systemd[1]: man-db.service: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit man-db.service has successfully entered the 'dead' state.
+Mar 09 14:53:49 pav systemd[1]: Finished Daily man-db regeneration.
+-- Subject: A start job for unit man-db.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit man-db.service has finished successfully.
+-- 
+-- The job identifier is 237.
+Mar 09 14:53:50 pav systemd[1]: tmp-syscheck\x2dmountpoint\x2d1351994988.mount: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit tmp-syscheck\x2dmountpoint\x2d1351994988.mount has successfully entered the 'dead' state.
+Mar 09 14:53:50 pav snapd[677]: daemon.go:340: adjusting startup timeout by 45s (pessimistic estimate of 30s plus 5s per snap)
+Mar 09 14:53:50 pav snapd[677]: backends.go:58: AppArmor status: apparmor is enabled and all features are available
+Mar 09 14:53:50 pav lxd.activate[674]: => Starting LXD activation
+Mar 09 14:53:50 pav lxd.activate[674]: ==> Loading snap configuration
+Mar 09 14:53:50 pav lxd.activate[674]: ==> Checking for socket activation support
+Mar 09 14:53:52 pav ModemManager[747]: <info>  [base-manager] couldn't check support for device '/sys/devices/pci0000:00/0000:00:01.0': not supported by any plugin
+Mar 09 14:53:54 pav audit[824]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/usr/lib/snapd/snap-confine" pid=824 comm="apparmor_parser"[0m
+Mar 09 14:53:54 pav kernel: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mkauditd_printk_skb: 18 callbacks suppressed[0m
+Mar 09 14:53:54 pav kernel: [0;1;39m[0;1;31m[0;1;39maudit: type=1400 audit(1741532034.692:30): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/usr/lib/snapd/snap-confine" pid=824 comm="apparmor_parser"[0m
+Mar 09 14:53:54 pav audit[824]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/usr/lib/snapd/snap-confine//mount-namespace-capture-helper" pid=824 comm="apparmor_parser"[0m
+Mar 09 14:53:54 pav kernel: [0;1;39m[0;1;31m[0;1;39maudit: type=1400 audit(1741532034.720:31): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/usr/lib/snapd/snap-confine//mount-namespace-capture-helper" pid=824 comm="apparmor_parser"[0m
+Mar 09 14:53:54 pav systemd[1]: Started Snap Daemon.
+-- Subject: A start job for unit snapd.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit snapd.service has finished successfully.
+-- 
+-- The job identifier is 175.
+Mar 09 14:53:55 pav dbus-daemon[661]: [system] Activating via systemd: service name='org.freedesktop.timedate1' unit='dbus-org.freedesktop.timedate1.service' requested by ':1.11' (uid=0 pid=677 comm="/usr/lib/snapd/snapd " label="unconfined")
+Mar 09 14:53:55 pav systemd[1]: Starting Time & Date Service...
+-- Subject: A start job for unit systemd-timedated.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit systemd-timedated.service has begun execution.
+-- 
+-- The job identifier is 534.
+Mar 09 14:53:56 pav dbus-daemon[661]: [system] Successfully activated service 'org.freedesktop.timedate1'
+Mar 09 14:53:56 pav systemd[1]: Started Time & Date Service.
+-- Subject: A start job for unit systemd-timedated.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit systemd-timedated.service has finished successfully.
+-- 
+-- The job identifier is 534.
+Mar 09 14:53:56 pav systemd[1]: Finished Wait until snapd is fully seeded.
+-- Subject: A start job for unit snapd.seeded.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit snapd.seeded.service has finished successfully.
+-- 
+-- The job identifier is 112.
+Mar 09 14:53:56 pav systemd[1]: Starting Apply the settings specified in cloud-config...
+-- Subject: A start job for unit cloud-config.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit cloud-config.service has begun execution.
+-- 
+-- The job identifier is 156.
+Mar 09 14:53:56 pav systemd[1]: Condition check resulted in Auto import assertions from block devices being skipped.
+-- Subject: A start job for unit snapd.autoimport.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit snapd.autoimport.service has finished successfully.
+-- 
+-- The job identifier is 164.
+Mar 09 14:53:57 pav lxd.activate[674]: ==> Setting LXD socket ownership
+Mar 09 14:53:57 pav lxd.activate[674]: ==> LXD never started on this system, no need to start it now
+Mar 09 14:53:57 pav systemd[1]: snap.lxd.activate.service: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit snap.lxd.activate.service has successfully entered the 'dead' state.
+Mar 09 14:53:57 pav systemd[1]: Finished Service for snap application lxd.activate.
+-- Subject: A start job for unit snap.lxd.activate.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit snap.lxd.activate.service has finished successfully.
+-- 
+-- The job identifier is 144.
+Mar 09 14:54:02 pav systemd-timesyncd[608]: Initial synchronization to time server 91.189.91.157:123 (ntp.ubuntu.com).
+Mar 09 14:54:05 pav login[710]: pam_unix(login:session): session opened for user sofiia by LOGIN(uid=0)
+Mar 09 14:54:05 pav systemd[1]: Created slice User Slice of UID 1000.
+-- Subject: A start job for unit user-1000.slice has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit user-1000.slice has finished successfully.
+-- 
+-- The job identifier is 734.
+Mar 09 14:54:05 pav systemd[1]: Starting User Runtime Directory /run/user/1000...
+-- Subject: A start job for unit user-runtime-dir@1000.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit user-runtime-dir@1000.service has begun execution.
+-- 
+-- The job identifier is 733.
+Mar 09 14:54:06 pav systemd-logind[679]: New session 1 of user sofiia.
+-- Subject: A new session 1 has been created for user sofiia
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- Documentation: https://www.freedesktop.org/wiki/Software/systemd/multiseat
+-- 
+-- A new session with the ID 1 has been created for the user sofiia.
+-- 
+-- The leading process of the session is 710.
+Mar 09 14:54:06 pav systemd[1]: Finished User Runtime Directory /run/user/1000.
+-- Subject: A start job for unit user-runtime-dir@1000.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit user-runtime-dir@1000.service has finished successfully.
+-- 
+-- The job identifier is 733.
+Mar 09 14:54:06 pav systemd[1]: Starting User Manager for UID 1000...
+-- Subject: A start job for unit user@1000.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit user@1000.service has begun execution.
+-- 
+-- The job identifier is 634.
+Mar 09 14:54:06 pav systemd[965]: pam_unix(systemd-user:session): session opened for user sofiia by (uid=0)
+Mar 09 14:54:08 pav systemd[965]: Reached target Paths.
+-- Subject: A start job for unit UNIT has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit UNIT has finished successfully.
+-- 
+-- The job identifier is 17.
+Mar 09 14:54:08 pav systemd[965]: Reached target Timers.
+-- Subject: A start job for unit UNIT has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit UNIT has finished successfully.
+-- 
+-- The job identifier is 16.
+Mar 09 14:54:08 pav systemd[965]: Starting D-Bus User Message Bus Socket.
+-- Subject: A start job for unit UNIT has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit UNIT has begun execution.
+-- 
+-- The job identifier is 12.
+Mar 09 14:54:08 pav systemd[965]: Listening on GnuPG network certificate management daemon.
+-- Subject: A start job for unit UNIT has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit UNIT has finished successfully.
+-- 
+-- The job identifier is 6.
+Mar 09 14:54:08 pav systemd[965]: Listening on GnuPG cryptographic agent and passphrase cache (access for web browsers).
+-- Subject: A start job for unit UNIT has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit UNIT has finished successfully.
+-- 
+-- The job identifier is 14.
+Mar 09 14:54:08 pav systemd[965]: Listening on GnuPG cryptographic agent and passphrase cache (restricted).
+-- Subject: A start job for unit UNIT has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit UNIT has finished successfully.
+-- 
+-- The job identifier is 15.
+Mar 09 14:54:08 pav systemd[965]: Listening on GnuPG cryptographic agent (ssh-agent emulation).
+-- Subject: A start job for unit UNIT has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit UNIT has finished successfully.
+-- 
+-- The job identifier is 11.
+Mar 09 14:54:08 pav systemd[965]: Listening on GnuPG cryptographic agent and passphrase cache.
+-- Subject: A start job for unit UNIT has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit UNIT has finished successfully.
+-- 
+-- The job identifier is 13.
+Mar 09 14:54:08 pav systemd[965]: Listening on debconf communication socket.
+-- Subject: A start job for unit UNIT has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit UNIT has finished successfully.
+-- 
+-- The job identifier is 9.
+Mar 09 14:54:08 pav systemd[965]: Listening on REST API socket for snapd user session agent.
+-- Subject: A start job for unit UNIT has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit UNIT has finished successfully.
+-- 
+-- The job identifier is 10.
+Mar 09 14:54:08 pav systemd[965]: Listening on D-Bus User Message Bus Socket.
+-- Subject: A start job for unit UNIT has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit UNIT has finished successfully.
+-- 
+-- The job identifier is 12.
+Mar 09 14:54:08 pav systemd[965]: Reached target Sockets.
+-- Subject: A start job for unit UNIT has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit UNIT has finished successfully.
+-- 
+-- The job identifier is 5.
+Mar 09 14:54:08 pav systemd[965]: Reached target Basic System.
+-- Subject: A start job for unit UNIT has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit UNIT has finished successfully.
+-- 
+-- The job identifier is 4.
+Mar 09 14:54:08 pav systemd[1]: Started User Manager for UID 1000.
+-- Subject: A start job for unit user@1000.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit user@1000.service has finished successfully.
+-- 
+-- The job identifier is 634.
+Mar 09 14:54:08 pav systemd[965]: Reached target Main User Target.
+-- Subject: A start job for unit UNIT has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit UNIT has finished successfully.
+-- 
+-- The job identifier is 3.
+Mar 09 14:54:08 pav systemd[965]: Startup finished in 1.851s.
+-- Subject: User manager start-up is now complete
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The user manager instance for user 1000 has been started. All services queued
+-- for starting have been started. Note that other services might still be starting
+-- up or be started at any later time.
+-- 
+-- Startup of the manager took 1851059 microseconds.
+Mar 09 14:54:08 pav systemd[1]: Started Session 1 of user sofiia.
+-- Subject: A start job for unit session-1.scope has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit session-1.scope has finished successfully.
+-- 
+-- The job identifier is 736.
+Mar 09 14:54:10 pav cloud-init[973]: Cloud-init v. 23.1.2-0ubuntu0~20.04.2 running 'modules:config' at Sun, 09 Mar 2025 14:54:07 +0000. Up 94.64 seconds.
+Mar 09 14:54:11 pav systemd[1]: Finished Apply the settings specified in cloud-config.
+-- Subject: A start job for unit cloud-config.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit cloud-config.service has finished successfully.
+-- 
+-- The job identifier is 156.
+Mar 09 14:54:11 pav systemd[1]: Condition check resulted in Ubuntu Pro Background Auto Attach being skipped.
+-- Subject: A start job for unit ubuntu-advantage.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit ubuntu-advantage.service has finished successfully.
+-- 
+-- The job identifier is 153.
+Mar 09 14:54:11 pav systemd[1]: Reached target Multi-User System.
+-- Subject: A start job for unit multi-user.target has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit multi-user.target has finished successfully.
+-- 
+-- The job identifier is 2.
+Mar 09 14:54:11 pav systemd[1]: Reached target Graphical Interface.
+-- Subject: A start job for unit graphical.target has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit graphical.target has finished successfully.
+-- 
+-- The job identifier is 1.
+Mar 09 14:54:11 pav systemd[1]: Starting Execute cloud user/final scripts...
+-- Subject: A start job for unit cloud-final.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit cloud-final.service has begun execution.
+-- 
+-- The job identifier is 155.
+Mar 09 14:54:11 pav systemd[1]: Starting Update UTMP about System Runlevel Changes...
+-- Subject: A start job for unit systemd-update-utmp-runlevel.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit systemd-update-utmp-runlevel.service has begun execution.
+-- 
+-- The job identifier is 149.
+Mar 09 14:54:11 pav systemd[1]: systemd-update-utmp-runlevel.service: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit systemd-update-utmp-runlevel.service has successfully entered the 'dead' state.
+Mar 09 14:54:11 pav systemd[1]: Finished Update UTMP about System Runlevel Changes.
+-- Subject: A start job for unit systemd-update-utmp-runlevel.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit systemd-update-utmp-runlevel.service has finished successfully.
+-- 
+-- The job identifier is 149.
+Mar 09 14:54:21 pav cloud-init[997]: Cloud-init v. 23.1.2-0ubuntu0~20.04.2 running 'modules:final' at Sun, 09 Mar 2025 14:54:19 +0000. Up 107.04 seconds.
+Mar 09 14:54:21 pav cloud-init[997]: Cloud-init v. 23.1.2-0ubuntu0~20.04.2 finished at Sun, 09 Mar 2025 14:54:21 +0000. Datasource DataSourceNone.  Up 108.56 seconds
+Mar 09 14:54:21 pav cloud-init[997]: 2025-03-09 14:54:21,477 - cc_final_message.py[WARNING]: Used fallback datasource
+Mar 09 14:54:21 pav systemd[1]: Finished Execute cloud user/final scripts.
+-- Subject: A start job for unit cloud-final.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit cloud-final.service has finished successfully.
+-- 
+-- The job identifier is 155.
+Mar 09 14:54:21 pav systemd[1]: Reached target Cloud-init target.
+-- Subject: A start job for unit cloud-init.target has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit cloud-init.target has finished successfully.
+-- 
+-- The job identifier is 154.
+Mar 09 14:54:21 pav systemd[1]: Startup finished in 11.876s (kernel) + 1min 37.181s (userspace) = 1min 49.057s.
+-- Subject: System start-up is now complete
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- All system services necessary queued for starting at boot have been
+-- started. Note that this does not mean that the machine is now idle as services
+-- might still be busy with completing start-up.
+-- 
+-- Kernel start-up required 11876040 microseconds.
+-- 
+-- Initial RAM disk start-up required INITRD_USEC microseconds.
+-- 
+-- Userspace start-up required 97181397 microseconds.
+Mar 09 14:54:34 pav systemd[1]: systemd-timedated.service: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit systemd-timedated.service has successfully entered the 'dead' state.
+Mar 09 14:54:41 pav systemd[1]: Reloading.
+Mar 09 14:54:43 pav systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mConfiguration file /run/systemd/system/netplan-ovs-cleanup.service is marked world-inaccessible. This has no effect as configuration data is accessible via APIs without restrictions. Proceeding anyway.[0m
+Mar 09 14:54:45 pav systemd[1]: Mounting Mount unit for snapd, revision 23771...
+-- Subject: A start job for unit snap-snapd-23771.mount has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit snap-snapd-23771.mount has begun execution.
+-- 
+-- The job identifier is 840.
+Mar 09 14:54:45 pav systemd[1]: Mounted Mount unit for snapd, revision 23771.
+-- Subject: A start job for unit snap-snapd-23771.mount has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit snap-snapd-23771.mount has finished successfully.
+-- 
+-- The job identifier is 840.
+Mar 09 14:54:49 pav audit[1135]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="/snap/snapd/23771/usr/lib/snapd/snap-confine" pid=1135 comm="apparmor_parser"[0m
+Mar 09 14:54:49 pav kernel: [0;1;39m[0;1;31m[0;1;39maudit: type=1400 audit(1741532089.469:32): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/snap/snapd/23771/usr/lib/snapd/snap-confine" pid=1135 comm="apparmor_parser"[0m
+Mar 09 14:54:49 pav audit[1135]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="/snap/snapd/23771/usr/lib/snapd/snap-confine//mount-namespace-capture-helper" pid=1135 comm="apparmor_parser"[0m
+Mar 09 14:54:49 pav kernel: [0;1;39m[0;1;31m[0;1;39maudit: type=1400 audit(1741532089.473:33): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/snap/snapd/23771/usr/lib/snapd/snap-confine//mount-namespace-capture-helper" pid=1135 comm="apparmor_parser"[0m
+Mar 09 14:54:49 pav audit[1137]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap-update-ns.lxd" pid=1137 comm="apparmor_parser"[0m
+Mar 09 14:54:49 pav kernel: [0;1;39m[0;1;31m[0;1;39maudit: type=1400 audit(1741532089.593:34): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap-update-ns.lxd" pid=1137 comm="apparmor_parser"[0m
+Mar 09 14:54:49 pav audit[1138]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap.lxd.activate" pid=1138 comm="apparmor_parser"[0m
+Mar 09 14:54:49 pav kernel: [0;1;39m[0;1;31m[0;1;39maudit: type=1400 audit(1741532089.613:35): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap.lxd.activate" pid=1138 comm="apparmor_parser"[0m
+Mar 09 14:54:49 pav audit[1139]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap.lxd.benchmark" pid=1139 comm="apparmor_parser"[0m
+Mar 09 14:54:49 pav kernel: [0;1;39m[0;1;31m[0;1;39maudit: type=1400 audit(1741532089.633:36): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap.lxd.benchmark" pid=1139 comm="apparmor_parser"[0m
+Mar 09 14:54:49 pav audit[1140]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap.lxd.buginfo" pid=1140 comm="apparmor_parser"[0m
+Mar 09 14:54:49 pav kernel: [0;1;39m[0;1;31m[0;1;39maudit: type=1400 audit(1741532089.649:37): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap.lxd.buginfo" pid=1140 comm="apparmor_parser"[0m
+Mar 09 14:54:49 pav audit[1141]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap.lxd.check-kernel" pid=1141 comm="apparmor_parser"[0m
+Mar 09 14:54:49 pav kernel: [0;1;39m[0;1;31m[0;1;39maudit: type=1400 audit(1741532089.669:38): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap.lxd.check-kernel" pid=1141 comm="apparmor_parser"[0m
+Mar 09 14:54:49 pav audit[1142]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap.lxd.daemon" pid=1142 comm="apparmor_parser"[0m
+Mar 09 14:54:49 pav kernel: [0;1;39m[0;1;31m[0;1;39maudit: type=1400 audit(1741532089.693:39): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap.lxd.daemon" pid=1142 comm="apparmor_parser"[0m
+Mar 09 14:54:49 pav audit[1143]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap.lxd.hook.configure" pid=1143 comm="apparmor_parser"[0m
+Mar 09 14:54:49 pav kernel: [0;1;39m[0;1;31m[0;1;39maudit: type=1400 audit(1741532089.717:40): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap.lxd.hook.configure" pid=1143 comm="apparmor_parser"[0m
+Mar 09 14:54:49 pav audit[1144]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap.lxd.hook.install" pid=1144 comm="apparmor_parser"[0m
+Mar 09 14:54:49 pav kernel: [0;1;39m[0;1;31m[0;1;39maudit: type=1400 audit(1741532089.729:41): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap.lxd.hook.install" pid=1144 comm="apparmor_parser"[0m
+Mar 09 14:54:49 pav audit[1145]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap.lxd.hook.remove" pid=1145 comm="apparmor_parser"[0m
+Mar 09 14:54:49 pav audit[1146]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap.lxd.lxc" pid=1146 comm="apparmor_parser"[0m
+Mar 09 14:54:49 pav audit[1147]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap.lxd.lxc-to-lxd" pid=1147 comm="apparmor_parser"[0m
+Mar 09 14:54:49 pav audit[1148]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap.lxd.lxd" pid=1148 comm="apparmor_parser"[0m
+Mar 09 14:54:49 pav audit[1149]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap.lxd.migrate" pid=1149 comm="apparmor_parser"[0m
+Mar 09 14:54:49 pav snapd[677]: daemon.go:519: gracefully waiting for running hooks
+Mar 09 14:54:49 pav snapd[677]: daemon.go:521: done waiting for running hooks
+Mar 09 14:54:53 pav snapd[677]: overlord.go:515: Released state lock file
+Mar 09 14:54:53 pav systemd[1]: snapd.service: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit snapd.service has successfully entered the 'dead' state.
+Mar 09 14:54:53 pav systemd[1]: snapd.service: Scheduled restart job, restart counter is at 1.
+-- Subject: Automatic restarting of a unit has been scheduled
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- Automatic restarting of the unit snapd.service has been scheduled, as the result for
+-- the configured Restart= setting for the unit.
+Mar 09 14:54:53 pav systemd[1]: Stopped Snap Daemon.
+-- Subject: A stop job for unit snapd.service has finished
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A stop job for unit snapd.service has finished.
+-- 
+-- The job identifier is 846 and the job result is done.
+Mar 09 14:54:53 pav systemd[1]: Starting Snap Daemon...
+-- Subject: A start job for unit snapd.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit snapd.service has begun execution.
+-- 
+-- The job identifier is 846.
+Mar 09 14:54:56 pav snapd[1163]: overlord.go:274: Acquiring state lock file
+Mar 09 14:54:56 pav snapd[1163]: overlord.go:279: Acquired state lock file
+Mar 09 14:54:56 pav snapd[1163]: patch.go:64: Patching system state level 6 to sublevel 1...
+Mar 09 14:54:56 pav snapd[1163]: patch.go:64: Patching system state level 6 to sublevel 2...
+Mar 09 14:54:56 pav snapd[1163]: patch.go:64: Patching system state level 6 to sublevel 3...
+Mar 09 14:54:56 pav snapd[1163]: daemon.go:250: started snapd/2.67.1 (series 16; classic) ubuntu/20.04 (amd64) linux/5.4.0-208-generic.
+Mar 09 14:54:57 pav systemd[1]: tmp-syscheck\x2dmountpoint\x2d337029010.mount: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit tmp-syscheck\x2dmountpoint\x2d337029010.mount has successfully entered the 'dead' state.
+Mar 09 14:54:57 pav systemd[965]: tmp-syscheck\x2dmountpoint\x2d337029010.mount: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit UNIT has successfully entered the 'dead' state.
+Mar 09 14:54:57 pav snapd[1163]: daemon.go:353: adjusting startup timeout by 45s (pessimistic estimate of 30s plus 5s per snap)
+Mar 09 14:54:57 pav snapd[1163]: backends.go:58: AppArmor status: apparmor is enabled and all features are available (using snapd provided apparmor_parser)
+Mar 09 14:54:57 pav snapd[1163]: helpers.go:159: error trying to compare the snap system key: system-key versions not comparable
+Mar 09 14:55:00 pav systemd-udevd[1289]: Using default interface naming scheme 'v245'.
+Mar 09 14:55:03 pav ModemManager[747]: <info>  [base-manager] couldn't check support for device '/sys/devices/pci0000:00/0000:00:01.0': not supported by any plugin
+Mar 09 14:55:03 pav udisksd[681]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mError probing device: Error sending ATA command IDENTIFY PACKET DEVICE to '/dev/sr0': Unexpected sense data returned:[0m
+                                  [0;1;38;5;185m0000: 70 00 05 00  00 00 00 0a  00 58 00 01  21 04 00 00    p........X..!...[0m
+                                  [0;1;38;5;185m0010: 00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00    ................[0m
+                                  [0;1;38;5;185m (g-io-error-quark, 0)[0m
+Mar 09 14:55:04 pav udisksd[681]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mError probing device: Error sending ATA command IDENTIFY DEVICE to '/dev/sda': Unexpected sense data returned:[0m
+                                  [0;1;38;5;185m0000: 70 00 05 00  00 00 00 0a  00 58 00 01  21 04 00 00    p........X..!...[0m
+                                  [0;1;38;5;185m0010: 00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00    ................[0m
+                                  [0;1;38;5;185m (g-io-error-quark, 0)[0m
+Mar 09 14:55:04 pav systemd-logind[679]: Watching system buttons on /dev/input/event0 (Power Button)
+Mar 09 14:55:05 pav systemd-logind[679]: Watching system buttons on /dev/input/event3 (QEMU QEMU USB Keyboard)
+Mar 09 14:55:05 pav udisksd[681]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mError probing device: Error sending ATA command IDENTIFY PACKET DEVICE to '/dev/sr0': Unexpected sense data returned:[0m
+                                  [0;1;38;5;185m0000: 70 00 05 00  00 00 00 0a  00 58 00 01  21 04 00 00    p........X..!...[0m
+                                  [0;1;38;5;185m0010: 00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00    ................[0m
+                                  [0;1;38;5;185m (g-io-error-quark, 0)[0m
+Mar 09 14:55:05 pav udisksd[681]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mError probing device: Error sending ATA command IDENTIFY DEVICE to '/dev/sda': Unexpected sense data returned:[0m
+                                  [0;1;38;5;185m0000: 70 00 05 00  00 00 00 0a  00 58 00 01  21 04 00 00    p........X..!...[0m
+                                  [0;1;38;5;185m0010: 00 00 00 00  00 00 00 00  00 00 00 00  00 00 00 00    ................[0m
+                                  [0;1;38;5;185m (g-io-error-quark, 0)[0m
+Mar 09 14:55:07 pav audit[1367]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/snap/snapd/23771/usr/lib/snapd/snap-confine" pid=1367 comm="apparmor_parser"[0m
+Mar 09 14:55:07 pav audit[1367]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/snap/snapd/23771/usr/lib/snapd/snap-confine//mount-namespace-capture-helper" pid=1367 comm="apparmor_parser"[0m
+Mar 09 14:55:07 pav kernel: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mkauditd_printk_skb: 5 callbacks suppressed[0m
+Mar 09 14:55:07 pav kernel: [0;1;39m[0;1;31m[0;1;39maudit: type=1400 audit(1741532107.193:47): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/snap/snapd/23771/usr/lib/snapd/snap-confine" pid=1367 comm="apparmor_parser"[0m
+Mar 09 14:55:07 pav kernel: [0;1;39m[0;1;31m[0;1;39maudit: type=1400 audit(1741532107.193:48): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/snap/snapd/23771/usr/lib/snapd/snap-confine//mount-namespace-capture-helper" pid=1367 comm="apparmor_parser"[0m
+Mar 09 14:55:07 pav audit[1369]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap-update-ns.lxd" pid=1369 comm="apparmor_parser"[0m
+Mar 09 14:55:07 pav kernel: [0;1;39m[0;1;31m[0;1;39maudit: type=1400 audit(1741532107.285:49): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap-update-ns.lxd" pid=1369 comm="apparmor_parser"[0m
+Mar 09 14:55:07 pav audit[1370]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.lxd.activate" pid=1370 comm="apparmor_parser"[0m
+Mar 09 14:55:07 pav kernel: [0;1;39m[0;1;31m[0;1;39maudit: type=1400 audit(1741532107.873:50): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.lxd.activate" pid=1370 comm="apparmor_parser"[0m
+Mar 09 14:55:08 pav audit[1371]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.lxd.benchmark" pid=1371 comm="apparmor_parser"[0m
+Mar 09 14:55:08 pav kernel: [0;1;39m[0;1;31m[0;1;39maudit: type=1400 audit(1741532108.457:51): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.lxd.benchmark" pid=1371 comm="apparmor_parser"[0m
+Mar 09 14:55:09 pav audit[1372]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.lxd.buginfo" pid=1372 comm="apparmor_parser"[0m
+Mar 09 14:55:09 pav kernel: [0;1;39m[0;1;31m[0;1;39maudit: type=1400 audit(1741532109.037:52): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.lxd.buginfo" pid=1372 comm="apparmor_parser"[0m
+Mar 09 14:55:09 pav audit[1373]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.lxd.check-kernel" pid=1373 comm="apparmor_parser"[0m
+Mar 09 14:55:09 pav kernel: [0;1;39m[0;1;31m[0;1;39maudit: type=1400 audit(1741532109.617:53): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.lxd.check-kernel" pid=1373 comm="apparmor_parser"[0m
+Mar 09 14:55:10 pav audit[1374]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.lxd.daemon" pid=1374 comm="apparmor_parser"[0m
+Mar 09 14:55:10 pav kernel: [0;1;39m[0;1;31m[0;1;39maudit: type=1400 audit(1741532110.509:54): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.lxd.daemon" pid=1374 comm="apparmor_parser"[0m
+Mar 09 14:55:11 pav audit[1375]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.lxd.hook.configure" pid=1375 comm="apparmor_parser"[0m
+Mar 09 14:55:11 pav kernel: [0;1;39m[0;1;31m[0;1;39maudit: type=1400 audit(1741532111.257:55): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.lxd.hook.configure" pid=1375 comm="apparmor_parser"[0m
+Mar 09 14:55:11 pav audit[1376]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.lxd.hook.install" pid=1376 comm="apparmor_parser"[0m
+Mar 09 14:55:11 pav kernel: [0;1;39m[0;1;31m[0;1;39maudit: type=1400 audit(1741532111.773:56): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.lxd.hook.install" pid=1376 comm="apparmor_parser"[0m
+Mar 09 14:55:12 pav audit[1377]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.lxd.hook.remove" pid=1377 comm="apparmor_parser"[0m
+Mar 09 14:55:12 pav kernel: [0;1;39m[0;1;31m[0;1;39maudit: type=1400 audit(1741532112.365:57): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.lxd.hook.remove" pid=1377 comm="apparmor_parser"[0m
+Mar 09 14:55:12 pav audit[1378]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.lxd.lxc" pid=1378 comm="apparmor_parser"[0m
+Mar 09 14:55:12 pav kernel: [0;1;39m[0;1;31m[0;1;39maudit: type=1400 audit(1741532112.949:58): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.lxd.lxc" pid=1378 comm="apparmor_parser"[0m
+Mar 09 14:55:13 pav audit[1379]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.lxd.lxc-to-lxd" pid=1379 comm="apparmor_parser"[0m
+Mar 09 14:55:13 pav kernel: [0;1;39m[0;1;31m[0;1;39maudit: type=1400 audit(1741532113.533:59): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.lxd.lxc-to-lxd" pid=1379 comm="apparmor_parser"[0m
+Mar 09 14:55:14 pav audit[1380]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.lxd.lxd" pid=1380 comm="apparmor_parser"[0m
+Mar 09 14:55:14 pav kernel: [0;1;39m[0;1;31m[0;1;39maudit: type=1400 audit(1741532114.121:60): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.lxd.lxd" pid=1380 comm="apparmor_parser"[0m
+Mar 09 14:55:14 pav audit[1381]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.lxd.migrate" pid=1381 comm="apparmor_parser"[0m
+Mar 09 14:55:14 pav kernel: [0;1;39m[0;1;31m[0;1;39maudit: type=1400 audit(1741532114.705:61): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.lxd.migrate" pid=1381 comm="apparmor_parser"[0m
+Mar 09 14:55:14 pav systemd[1]: Started Snap Daemon.
+-- Subject: A start job for unit snapd.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit snapd.service has finished successfully.
+-- 
+-- The job identifier is 846.
+Mar 09 14:55:14 pav dbus-daemon[661]: [system] Activating via systemd: service name='org.freedesktop.timedate1' unit='dbus-org.freedesktop.timedate1.service' requested by ':1.16' (uid=0 pid=1163 comm="/usr/lib/snapd/snapd " label="unconfined")
+Mar 09 14:55:14 pav systemd[1]: Starting Time & Date Service...
+-- Subject: A start job for unit systemd-timedated.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit systemd-timedated.service has begun execution.
+-- 
+-- The job identifier is 1108.
+Mar 09 14:55:15 pav dbus-daemon[661]: [system] Successfully activated service 'org.freedesktop.timedate1'
+Mar 09 14:55:15 pav systemd[1]: Started Time & Date Service.
+-- Subject: A start job for unit systemd-timedated.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit systemd-timedated.service has finished successfully.
+-- 
+-- The job identifier is 1108.
+Mar 09 14:55:19 pav sudo[1402]: [0;1;39m[0;1;31m[0;1;39m  sofiia : TTY=tty1 ; PWD=/home/sofiia ; USER=root ; COMMAND=/usr/bin/apt-get update[0m
+Mar 09 14:55:19 pav sudo[1402]: pam_unix(sudo:session): session opened for user root by sofiia(uid=0)
+Mar 09 14:55:20 pav systemd[1]: Starting Update APT News...
+-- Subject: A start job for unit apt-news.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit apt-news.service has begun execution.
+-- 
+-- The job identifier is 1208.
+Mar 09 14:55:20 pav systemd[1]: Starting Update the local ESM caches...
+-- Subject: A start job for unit esm-cache.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit esm-cache.service has begun execution.
+-- 
+-- The job identifier is 1307.
+Mar 09 14:55:32 pav systemd[1]: apt-news.service: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit apt-news.service has successfully entered the 'dead' state.
+Mar 09 14:55:32 pav systemd[1]: Finished Update APT News.
+-- Subject: A start job for unit apt-news.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit apt-news.service has finished successfully.
+-- 
+-- The job identifier is 1208.
+Mar 09 14:55:42 pav systemd[1]: esm-cache.service: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit esm-cache.service has successfully entered the 'dead' state.
+Mar 09 14:55:42 pav systemd[1]: Finished Update the local ESM caches.
+-- Subject: A start job for unit esm-cache.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit esm-cache.service has finished successfully.
+-- 
+-- The job identifier is 1307.
+Mar 09 14:55:45 pav dbus-daemon[661]: [system] Activating via systemd: service name='org.freedesktop.PackageKit' unit='packagekit.service' requested by ':1.18' (uid=0 pid=1777 comm="/usr/bin/gdbus call --system --dest org.freedeskto" label="unconfined")
+Mar 09 14:55:45 pav systemd[1]: Starting PackageKit Daemon...
+-- Subject: A start job for unit packagekit.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit packagekit.service has begun execution.
+-- 
+-- The job identifier is 1406.
+Mar 09 14:55:45 pav PackageKit[1780]: [0;38;5;245m[0;1;31m[0;38;5;245mdaemon start[0m
+Mar 09 14:55:45 pav systemd[1]: systemd-timedated.service: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit systemd-timedated.service has successfully entered the 'dead' state.
+Mar 09 14:55:46 pav dbus-daemon[661]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Mar 09 14:55:46 pav systemd[1]: Started PackageKit Daemon.
+-- Subject: A start job for unit packagekit.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit packagekit.service has finished successfully.
+-- 
+-- The job identifier is 1406.
+Mar 09 14:56:04 pav systemd[1]: Reloading.
+Mar 09 14:56:07 pav systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mConfiguration file /run/systemd/system/netplan-ovs-cleanup.service is marked world-inaccessible. This has no effect as configuration data is accessible via APIs without restrictions. Proceeding anyway.[0m
+Mar 09 14:56:11 pav systemd[1]: Mounting Mount unit for core20, revision 2496...
+-- Subject: A start job for unit snap-core20-2496.mount has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit snap-core20-2496.mount has begun execution.
+-- 
+-- The job identifier is 1507.
+Mar 09 14:56:12 pav systemd[1]: Mounted Mount unit for core20, revision 2496.
+-- Subject: A start job for unit snap-core20-2496.mount has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit snap-core20-2496.mount has finished successfully.
+-- 
+-- The job identifier is 1507.
+Mar 09 14:56:43 pav sudo[1402]: pam_unix(sudo:session): session closed for user root
+Mar 09 14:56:46 pav systemd[1]: Reloading.
+Mar 09 14:56:48 pav systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mConfiguration file /run/systemd/system/netplan-ovs-cleanup.service is marked world-inaccessible. This has no effect as configuration data is accessible via APIs without restrictions. Proceeding anyway.[0m
+Mar 09 14:56:50 pav systemd[1]: Starting Daily apt upgrade and clean activities...
+-- Subject: A start job for unit apt-daily-upgrade.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit apt-daily-upgrade.service has begun execution.
+-- 
+-- The job identifier is 1514.
+Mar 09 14:56:51 pav systemd[1]: Mounting Mount unit for lxd, revision 29619...
+-- Subject: A start job for unit snap-lxd-29619.mount has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit snap-lxd-29619.mount has begun execution.
+-- 
+-- The job identifier is 1613.
+Mar 09 14:56:51 pav systemd[1]: Mounted Mount unit for lxd, revision 29619.
+-- Subject: A start job for unit snap-lxd-29619.mount has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit snap-lxd-29619.mount has finished successfully.
+-- 
+-- The job identifier is 1613.
+Mar 09 14:56:52 pav systemd[1]: snap.lxd.daemon.unix.socket: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit snap.lxd.daemon.unix.socket has successfully entered the 'dead' state.
+Mar 09 14:56:52 pav systemd[1]: Closed Socket unix for snap application lxd.daemon.
+-- Subject: A stop job for unit snap.lxd.daemon.unix.socket has finished
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A stop job for unit snap.lxd.daemon.unix.socket has finished.
+-- 
+-- The job identifier is 1618 and the job result is done.
+Mar 09 14:56:54 pav snapd[1163]: services.go:1128: RemoveSnapServices - socket snap.lxd.daemon.unix.socket
+Mar 09 14:56:54 pav snapd[1163]: services.go:1152: RemoveSnapServices - disabling snap.lxd.daemon.service
+Mar 09 14:56:54 pav snapd[1163]: services.go:1152: RemoveSnapServices - disabling snap.lxd.activate.service
+Mar 09 14:56:54 pav systemd[1]: Reloading.
+Mar 09 14:56:58 pav systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mConfiguration file /run/systemd/system/netplan-ovs-cleanup.service is marked world-inaccessible. This has no effect as configuration data is accessible via APIs without restrictions. Proceeding anyway.[0m
+Mar 09 14:57:03 pav audit[2173]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/snap/snapd/23771/usr/lib/snapd/snap-confine" pid=2173 comm="apparmor_parser"[0m
+Mar 09 14:57:03 pav kernel: [0;1;39m[0;1;31m[0;1;39maudit: type=1400 audit(1741532223.881:62): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/snap/snapd/23771/usr/lib/snapd/snap-confine" pid=2173 comm="apparmor_parser"[0m
+Mar 09 14:57:03 pav kernel: [0;1;39m[0;1;31m[0;1;39maudit: type=1400 audit(1741532223.885:63): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/snap/snapd/23771/usr/lib/snapd/snap-confine//mount-namespace-capture-helper" pid=2173 comm="apparmor_parser"[0m
+Mar 09 14:57:03 pav audit[2173]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/snap/snapd/23771/usr/lib/snapd/snap-confine//mount-namespace-capture-helper" pid=2173 comm="apparmor_parser"[0m
+Mar 09 14:57:05 pav audit[2176]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.lxd.activate" pid=2176 comm="apparmor_parser"[0m
+Mar 09 14:57:05 pav kernel: [0;1;39m[0;1;31m[0;1;39maudit: type=1400 audit(1741532225.269:64): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.lxd.activate" pid=2176 comm="apparmor_parser"[0m
+Mar 09 14:57:06 pav audit[2178]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.lxd.benchmark" pid=2178 comm="apparmor_parser"[0m
+Mar 09 14:57:06 pav kernel: [0;1;39m[0;1;31m[0;1;39maudit: type=1400 audit(1741532226.585:65): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.lxd.benchmark" pid=2178 comm="apparmor_parser"[0m
+Mar 09 14:57:07 pav audit[2179]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.lxd.buginfo" pid=2179 comm="apparmor_parser"[0m
+Mar 09 14:57:07 pav kernel: [0;1;39m[0;1;31m[0;1;39maudit: type=1400 audit(1741532227.945:66): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.lxd.buginfo" pid=2179 comm="apparmor_parser"[0m
+Mar 09 14:57:09 pav audit[2180]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.lxd.check-kernel" pid=2180 comm="apparmor_parser"[0m
+Mar 09 14:57:09 pav kernel: [0;1;39m[0;1;31m[0;1;39maudit: type=1400 audit(1741532229.177:67): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.lxd.check-kernel" pid=2180 comm="apparmor_parser"[0m
+Mar 09 14:57:09 pav audit[2182]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.lxd.daemon" pid=2182 comm="apparmor_parser"[0m
+Mar 09 14:57:09 pav kernel: [0;1;39m[0;1;31m[0;1;39maudit: type=1400 audit(1741532229.984:68): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.lxd.daemon" pid=2182 comm="apparmor_parser"[0m
+Mar 09 14:57:10 pav audit[2183]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.lxd.hook.configure" pid=2183 comm="apparmor_parser"[0m
+Mar 09 14:57:10 pav kernel: [0;1;39m[0;1;31m[0;1;39maudit: type=1400 audit(1741532230.856:69): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.lxd.hook.configure" pid=2183 comm="apparmor_parser"[0m
+Mar 09 14:57:11 pav audit[2184]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.lxd.hook.install" pid=2184 comm="apparmor_parser"[0m
+Mar 09 14:57:11 pav kernel: [0;1;39m[0;1;31m[0;1;39maudit: type=1400 audit(1741532231.440:70): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.lxd.hook.install" pid=2184 comm="apparmor_parser"[0m
+Mar 09 14:57:12 pav audit[2185]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.lxd.hook.remove" pid=2185 comm="apparmor_parser"[0m
+Mar 09 14:57:12 pav kernel: [0;1;39m[0;1;31m[0;1;39maudit: type=1400 audit(1741532232.104:71): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.lxd.hook.remove" pid=2185 comm="apparmor_parser"[0m
+Mar 09 14:57:12 pav audit[2186]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.lxd.lxc" pid=2186 comm="apparmor_parser"[0m
+Mar 09 14:57:12 pav kernel: [0;1;39m[0;1;31m[0;1;39maudit: type=1400 audit(1741532232.744:72): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.lxd.lxc" pid=2186 comm="apparmor_parser"[0m
+Mar 09 14:57:13 pav audit[2187]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.lxd.lxc-to-lxd" pid=2187 comm="apparmor_parser"[0m
+Mar 09 14:57:13 pav kernel: [0;1;39m[0;1;31m[0;1;39maudit: type=1400 audit(1741532233.388:73): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.lxd.lxc-to-lxd" pid=2187 comm="apparmor_parser"[0m
+Mar 09 14:57:14 pav audit[2188]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.lxd.lxd" pid=2188 comm="apparmor_parser"[0m
+Mar 09 14:57:14 pav kernel: [0;1;39m[0;1;31m[0;1;39maudit: type=1400 audit(1741532234.092:74): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.lxd.lxd" pid=2188 comm="apparmor_parser"[0m
+Mar 09 14:57:14 pav audit[2189]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.lxd.migrate" pid=2189 comm="apparmor_parser"[0m
+Mar 09 14:57:14 pav kernel: [0;1;39m[0;1;31m[0;1;39maudit: type=1400 audit(1741532234.736:75): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.lxd.migrate" pid=2189 comm="apparmor_parser"[0m
+Mar 09 14:57:14 pav audit[2191]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap-update-ns.lxd" pid=2191 comm="apparmor_parser"[0m
+Mar 09 14:57:14 pav kernel: [0;1;39m[0;1;31m[0;1;39maudit: type=1400 audit(1741532234.788:76): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap-update-ns.lxd" pid=2191 comm="apparmor_parser"[0m
+Mar 09 14:57:14 pav systemd[1]: Reloading.
+Mar 09 14:57:17 pav systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mConfiguration file /run/systemd/system/netplan-ovs-cleanup.service is marked world-inaccessible. This has no effect as configuration data is accessible via APIs without restrictions. Proceeding anyway.[0m
+Mar 09 14:57:22 pav systemd[1]: Reloading.
+Mar 09 14:57:26 pav systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mConfiguration file /run/systemd/system/netplan-ovs-cleanup.service is marked world-inaccessible. This has no effect as configuration data is accessible via APIs without restrictions. Proceeding anyway.[0m
+Mar 09 14:57:30 pav systemd[1]: Listening on Socket unix for snap application lxd.daemon.
+-- Subject: A start job for unit snap.lxd.daemon.unix.socket has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit snap.lxd.daemon.unix.socket has finished successfully.
+-- 
+-- The job identifier is 1625.
+Mar 09 14:57:30 pav systemd[1]: Starting Service for snap application lxd.activate...
+-- Subject: A start job for unit snap.lxd.activate.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit snap.lxd.activate.service has begun execution.
+-- 
+-- The job identifier is 1727.
+Mar 09 14:57:35 pav systemd[965]: run-snapd-ns-lxd.mnt.mount: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit UNIT has successfully entered the 'dead' state.
+Mar 09 14:57:35 pav systemd[1]: run-snapd-ns-lxd.mnt.mount: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit run-snapd-ns-lxd.mnt.mount has successfully entered the 'dead' state.
+Mar 09 14:57:35 pav systemd[965]: tmp-snap.rootfs_BrjjHQ.mount: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit UNIT has successfully entered the 'dead' state.
+Mar 09 14:57:35 pav systemd[1]: tmp-snap.rootfs_BrjjHQ.mount: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit tmp-snap.rootfs_BrjjHQ.mount has successfully entered the 'dead' state.
+Mar 09 14:57:37 pav lxd.activate[2261]: => Starting LXD activation
+Mar 09 14:57:37 pav lxd.activate[2261]: ==> Loading snap configuration
+Mar 09 14:57:37 pav lxd.activate[2261]: ==> Checking for socket activation support
+Mar 09 14:57:39 pav lxd.activate[2261]: ==> Setting LXD socket ownership
+Mar 09 14:57:39 pav lxd.activate[2261]: ==> LXD never started on this system, no need to start it now
+Mar 09 14:57:39 pav systemd[1]: snap.lxd.activate.service: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit snap.lxd.activate.service has successfully entered the 'dead' state.
+Mar 09 14:57:39 pav systemd[1]: Finished Service for snap application lxd.activate.
+-- Subject: A start job for unit snap.lxd.activate.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit snap.lxd.activate.service has finished successfully.
+-- 
+-- The job identifier is 1727.
+Mar 09 14:57:40 pav systemd[1]: Started snap.lxd.hook.configure-1d487594-6b9b-414e-9591-cd302812846a.scope.
+-- Subject: A start job for unit snap.lxd.hook.configure-1d487594-6b9b-414e-9591-cd302812846a.scope has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit snap.lxd.hook.configure-1d487594-6b9b-414e-9591-cd302812846a.scope has finished successfully.
+-- 
+-- The job identifier is 1829.
+Mar 09 14:57:44 pav systemd[1]: snap.lxd.hook.configure-1d487594-6b9b-414e-9591-cd302812846a.scope: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit snap.lxd.hook.configure-1d487594-6b9b-414e-9591-cd302812846a.scope has successfully entered the 'dead' state.
+Mar 09 14:57:46 pav snapd[1163]: storehelpers.go:954: cannot refresh: snap has no updates available: "core20", "lxd", "snapd"
+Mar 09 14:58:19 pav sudo[2464]: [0;1;39m[0;1;31m[0;1;39m  sofiia : TTY=tty1 ; PWD=/home/sofiia ; USER=root ; COMMAND=/usr/bin/apt-get install openjdk-11-jdk[0m
+Mar 09 14:58:19 pav sudo[2464]: pam_unix(sudo:session): session opened for user root by sofiia(uid=0)
+Mar 09 14:58:19 pav sudo[2464]: pam_unix(sudo:session): session closed for user root
+Mar 09 15:00:44 pav sudo[4301]: [0;1;39m[0;1;31m[0;1;39m  sofiia : TTY=tty1 ; PWD=/home/sofiia ; USER=root ; COMMAND=/usr/bin/apt-get install openjdk-11-jdk[0m
+Mar 09 15:00:44 pav sudo[4301]: pam_unix(sudo:session): session opened for user root by sofiia(uid=0)
+Mar 09 15:00:45 pav sudo[4301]: pam_unix(sudo:session): session closed for user root
+Mar 09 15:01:25 pav sudo[7159]: [0;1;39m[0;1;31m[0;1;39m  sofiia : TTY=tty1 ; PWD=/home/sofiia ; USER=root ; COMMAND=/usr/bin/killall apt apt-get[0m
+Mar 09 15:01:25 pav sudo[7159]: pam_unix(sudo:session): session opened for user root by sofiia(uid=0)
+Mar 09 15:01:25 pav sudo[7159]: pam_unix(sudo:session): session closed for user root
+Mar 09 15:01:47 pav sudo[9693]: [0;1;39m[0;1;31m[0;1;39m  sofiia : TTY=tty1 ; PWD=/home/sofiia ; USER=root ; COMMAND=/usr/bin/dpkg --configure -a[0m
+Mar 09 15:01:47 pav sudo[9693]: pam_unix(sudo:session): session opened for user root by sofiia(uid=0)
+Mar 09 15:01:47 pav sudo[9693]: pam_unix(sudo:session): session closed for user root
+Mar 09 15:02:19 pav sudo[12768]: [0;1;39m[0;1;31m[0;1;39m  sofiia : TTY=tty1 ; PWD=/home/sofiia ; USER=root ; COMMAND=/usr/bin/apt-get install openjdk-11-jdk[0m
+Mar 09 15:02:19 pav sudo[12768]: pam_unix(sudo:session): session opened for user root by sofiia(uid=0)
+Mar 09 15:02:20 pav sudo[12768]: pam_unix(sudo:session): session closed for user root
+Mar 09 15:03:27 pav sudo[12774]: [0;1;39m[0;1;31m[0;1;39m  sofiia : TTY=tty1 ; PWD=/home/sofiia ; USER=root ; COMMAND=/usr/bin/apt update[0m
+Mar 09 15:03:27 pav sudo[12774]: pam_unix(sudo:session): session opened for user root by sofiia(uid=0)
+Mar 09 15:03:28 pav systemd[1]: Starting Update APT News...
+-- Subject: A start job for unit apt-news.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit apt-news.service has begun execution.
+-- 
+-- The job identifier is 1833.
+Mar 09 15:03:28 pav systemd[1]: Starting Update the local ESM caches...
+-- Subject: A start job for unit esm-cache.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit esm-cache.service has begun execution.
+-- 
+-- The job identifier is 1932.
+Mar 09 15:03:35 pav systemd[1]: apt-news.service: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit apt-news.service has successfully entered the 'dead' state.
+Mar 09 15:03:35 pav systemd[1]: Finished Update APT News.
+-- Subject: A start job for unit apt-news.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit apt-news.service has finished successfully.
+-- 
+-- The job identifier is 1833.
+Mar 09 15:03:42 pav systemd[1]: esm-cache.service: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit esm-cache.service has successfully entered the 'dead' state.
+Mar 09 15:03:42 pav systemd[1]: Finished Update the local ESM caches.
+-- Subject: A start job for unit esm-cache.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit esm-cache.service has finished successfully.
+-- 
+-- The job identifier is 1932.
+Mar 09 15:04:19 pav sudo[12774]: pam_unix(sudo:session): session closed for user root
+Mar 09 15:04:26 pav sudo[13274]: [0;1;39m[0;1;31m[0;1;39m  sofiia : TTY=tty1 ; PWD=/home/sofiia ; USER=root ; COMMAND=/usr/bin/apt-get install openjdk-11-jdk[0m
+Mar 09 15:04:26 pav sudo[13274]: pam_unix(sudo:session): session opened for user root by sofiia(uid=0)
+Mar 09 15:04:26 pav sudo[13274]: pam_unix(sudo:session): session closed for user root
+Mar 09 15:07:33 pav systemd[1]: Starting Cleanup of Temporary Directories...
+-- Subject: A start job for unit systemd-tmpfiles-clean.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit systemd-tmpfiles-clean.service has begun execution.
+-- 
+-- The job identifier is 2031.
+Mar 09 15:07:33 pav systemd[1]: systemd-tmpfiles-clean.service: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit systemd-tmpfiles-clean.service has successfully entered the 'dead' state.
+Mar 09 15:07:33 pav systemd[1]: Finished Cleanup of Temporary Directories.
+-- Subject: A start job for unit systemd-tmpfiles-clean.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit systemd-tmpfiles-clean.service has finished successfully.
+-- 
+-- The job identifier is 2031.
+Mar 09 15:07:44 pav sudo[14737]: [0;1;39m[0;1;31m[0;1;39m  sofiia : TTY=tty1 ; PWD=/home/sofiia ; USER=root ; COMMAND=/usr/bin/lsof /var/lib/dpkg/lock-frontend[0m
+Mar 09 15:07:44 pav sudo[14737]: pam_unix(sudo:session): session opened for user root by sofiia(uid=0)
+Mar 09 15:07:45 pav sudo[14737]: pam_unix(sudo:session): session closed for user root
+Mar 09 15:08:26 pav sudo[15481]: [0;1;39m[0;1;31m[0;1;39m  sofiia : TTY=tty1 ; PWD=/home/sofiia ; USER=root ; COMMAND=/usr/bin/kill -9 2157[0m
+Mar 09 15:08:26 pav sudo[15481]: pam_unix(sudo:session): session opened for user root by sofiia(uid=0)
+Mar 09 15:08:26 pav sudo[15481]: pam_unix(sudo:session): session closed for user root
+Mar 09 15:08:26 pav apt.systemd.daily[2062]: Killed
+Mar 09 15:08:27 pav systemd[1]: apt-daily-upgrade.service: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit apt-daily-upgrade.service has successfully entered the 'dead' state.
+Mar 09 15:08:27 pav systemd[1]: Finished Daily apt upgrade and clean activities.
+-- Subject: A start job for unit apt-daily-upgrade.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit apt-daily-upgrade.service has finished successfully.
+-- 
+-- The job identifier is 1514.
+Mar 09 15:08:33 pav sudo[15736]: [0;1;39m[0;1;31m[0;1;39m  sofiia : TTY=tty1 ; PWD=/home/sofiia ; USER=root ; COMMAND=/usr/bin/apt-get install openjdk-11-jdk[0m
+Mar 09 15:08:33 pav sudo[15736]: pam_unix(sudo:session): session opened for user root by sofiia(uid=0)
+Mar 09 15:11:45 pav systemd[1]: Reloading.
+Mar 09 15:11:47 pav systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mConfiguration file /run/systemd/system/netplan-ovs-cleanup.service is marked world-inaccessible. This has no effect as configuration data is accessible via APIs without restrictions. Proceeding anyway.[0m
+Mar 09 15:11:49 pav systemd[1]: Starting Ubuntu Advantage Timer for running repeated jobs...
+-- Subject: A start job for unit ua-timer.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit ua-timer.service has begun execution.
+-- 
+-- The job identifier is 2036.
+Mar 09 15:11:49 pav systemd[1]: Reloading.
+Mar 09 15:11:53 pav systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mConfiguration file /run/systemd/system/netplan-ovs-cleanup.service is marked world-inaccessible. This has no effect as configuration data is accessible via APIs without restrictions. Proceeding anyway.[0m
+Mar 09 15:11:57 pav systemd[1]: Starting Message of the Day...
+-- Subject: A start job for unit motd-news.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit motd-news.service has begun execution.
+-- 
+-- The job identifier is 2136.
+Mar 09 15:12:18 pav 50-motd-news[17165]:  * Strictly confined Kubernetes makes edge and IoT secure. Learn how MicroK8s
+Mar 09 15:12:18 pav 50-motd-news[17165]:    just raised the bar for easy, resilient and secure K8s cluster deployment.
+Mar 09 15:12:18 pav 50-motd-news[17165]:    https://ubuntu.com/engage/secure-kubernetes-at-the-edge
+Mar 09 15:12:18 pav systemd[1]: motd-news.service: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit motd-news.service has successfully entered the 'dead' state.
+Mar 09 15:12:18 pav systemd[1]: Finished Message of the Day.
+-- Subject: A start job for unit motd-news.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit motd-news.service has finished successfully.
+-- 
+-- The job identifier is 2136.
+Mar 09 15:12:22 pav systemd[1]: ua-timer.service: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit ua-timer.service has successfully entered the 'dead' state.
+Mar 09 15:12:22 pav systemd[1]: Finished Ubuntu Advantage Timer for running repeated jobs.
+-- Subject: A start job for unit ua-timer.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit ua-timer.service has finished successfully.
+-- 
+-- The job identifier is 2036.
+Mar 09 15:12:35 pav systemd[1]: Reloading.
+Mar 09 15:12:37 pav systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mConfiguration file /run/systemd/system/netplan-ovs-cleanup.service is marked world-inaccessible. This has no effect as configuration data is accessible via APIs without restrictions. Proceeding anyway.[0m
+Mar 09 15:13:16 pav sudo[15736]: pam_unix(sudo:session): session closed for user root
+Mar 09 15:17:01 pav CRON[19243]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar 09 15:17:01 pav CRON[19244]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar 09 15:17:02 pav CRON[19243]: pam_unix(cron:session): session closed for user root
+Mar 09 15:18:16 pav PackageKit[1780]: [0;38;5;245m[0;1;31m[0;38;5;245mdaemon quit[0m
+Mar 09 15:18:16 pav systemd[1]: packagekit.service: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit packagekit.service has successfully entered the 'dead' state.
+Mar 09 15:20:45 pav sudo[19268]: [0;1;39m[0;1;31m[0;1;39m  sofiia : TTY=tty1 ; PWD=/home/sofiia ; USER=root ; COMMAND=/usr/bin/install openssh-server -y[0m
+Mar 09 15:20:45 pav sudo[19268]: pam_unix(sudo:session): session opened for user root by sofiia(uid=0)
+Mar 09 15:20:45 pav sudo[19268]: pam_unix(sudo:session): session closed for user root
+Mar 09 15:21:18 pav sudo[19270]: [0;1;39m[0;1;31m[0;1;39m  sofiia : TTY=tty1 ; PWD=/home/sofiia ; USER=root ; COMMAND=/usr/bin/apt install openssh-server -y[0m
+Mar 09 15:21:18 pav sudo[19270]: pam_unix(sudo:session): session opened for user root by sofiia(uid=0)
+Mar 09 15:21:22 pav sudo[19270]: pam_unix(sudo:session): session closed for user root
+Mar 09 15:21:47 pav sudo[19315]: [0;1;39m[0;1;31m[0;1;39m  sofiia : TTY=tty1 ; PWD=/home/sofiia ; USER=root ; COMMAND=/usr/bin/systemctl status ssh[0m
+Mar 09 15:21:47 pav sudo[19315]: pam_unix(sudo:session): session opened for user root by sofiia(uid=0)
+Mar 09 15:21:47 pav sudo[19315]: pam_unix(sudo:session): session closed for user root
+Mar 09 15:27:18 pav sshd[19324]: Connection closed by 10.211.55.1 port 49807 [preauth]
+Mar 09 15:29:04 pav sudo[19335]: [0;1;39m[0;1;31m[0;1;39m  sofiia : TTY=tty1 ; PWD=/home/sofiia ; USER=root ; COMMAND=/usr/bin/systemctl status ssh[0m
+Mar 09 15:29:04 pav sudo[19335]: pam_unix(sudo:session): session opened for user root by sofiia(uid=0)
+Mar 09 15:29:04 pav sudo[19335]: pam_unix(sudo:session): session closed for user root
+Mar 09 15:30:07 pav sudo[19340]: [0;1;39m[0;1;31m[0;1;39m  sofiia : TTY=tty1 ; PWD=/home/sofiia ; USER=root ; COMMAND=/usr/sbin/ufw allow OpenSSH[0m
+Mar 09 15:30:07 pav sudo[19340]: pam_unix(sudo:session): session opened for user root by sofiia(uid=0)
+Mar 09 15:30:07 pav kernel: bpfilter: Loaded bpfilter_umh pid 19347
+Mar 09 15:30:07 pav unknown: [0;1;39m[0;1;31m[0;1;39mStarted bpfilter[0m
+Mar 09 15:30:08 pav sudo[19340]: pam_unix(sudo:session): session closed for user root
+Mar 09 15:30:24 pav sshd[19365]: Connection closed by 10.211.55.1 port 49808 [preauth]
+Mar 09 15:32:43 pav sshd[19368]: Connection closed by 10.211.55.1 port 49809 [preauth]
+Mar 09 15:37:46 pav systemd[1]: Started Getty on tty3.
+-- Subject: A start job for unit getty@tty3.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit getty@tty3.service has finished successfully.
+-- 
+-- The job identifier is 2236.
+Mar 09 15:38:03 pav login[19373]: pam_unix(login:session): session opened for user sofiia by LOGIN(uid=0)
+Mar 09 15:38:03 pav systemd-logind[679]: New session 4 of user sofiia.
+-- Subject: A new session 4 has been created for user sofiia
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- Documentation: https://www.freedesktop.org/wiki/Software/systemd/multiseat
+-- 
+-- A new session with the ID 4 has been created for the user sofiia.
+-- 
+-- The leading process of the session is 19373.
+Mar 09 15:38:03 pav systemd[1]: Started Session 4 of user sofiia.
+-- Subject: A start job for unit session-4.scope has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit session-4.scope has finished successfully.
+-- 
+-- The job identifier is 2338.
+Mar 09 15:43:38 pav sudo[19530]: [0;1;39m[0;1;31m[0;1;39m  sofiia : TTY=tty3 ; PWD=/home/sofiia ; USER=root ; COMMAND=/usr/bin/curl -fsSL https://pkg.jenkins.io/debian-stable/jenkins.io-2023.key[0m
+Mar 09 15:43:38 pav sudo[19531]: [0;1;39m[0;1;31m[0;1;39m  sofiia : TTY=tty3 ; PWD=/home/sofiia ; USER=root ; COMMAND=/usr/bin/tee /usr/share/keyrings/jenkins-keyring.asc[0m
+Mar 09 15:43:38 pav sudo[19531]: pam_unix(sudo:session): session opened for user root by sofiia(uid=0)
+Mar 09 15:43:38 pav sudo[19530]: pam_unix(sudo:session): session opened for user root by sofiia(uid=0)
+Mar 09 15:43:38 pav sudo[19530]: pam_unix(sudo:session): session closed for user root
+Mar 09 15:43:38 pav sudo[19531]: pam_unix(sudo:session): session closed for user root
+Mar 09 15:47:34 pav sudo[19540]: [0;1;39m[0;1;31m[0;1;39m  sofiia : TTY=tty3 ; PWD=/home/sofiia ; USER=root ; COMMAND=/usr/bin/tee /etc/apt/sources.list.d/jenkins.list[0m
+Mar 09 15:47:34 pav sudo[19539]: [0;1;39m[0;1;31m[0;1;39m  sofiia : TTY=tty3 ; PWD=/home/sofiia ; USER=root ; COMMAND=/usr/bin/echo deb [signed-by=/usr/share/keyrings/jenkins-keyring.asc] https://pkg.jenkins.io/debian-stable binary/[0m
+Mar 09 15:47:34 pav sudo[19539]: pam_unix(sudo:session): session opened for user root by sofiia(uid=0)
+Mar 09 15:47:34 pav sudo[19540]: pam_unix(sudo:session): session opened for user root by sofiia(uid=0)
+Mar 09 15:47:34 pav sudo[19539]: pam_unix(sudo:session): session closed for user root
+Mar 09 15:47:34 pav sudo[19540]: pam_unix(sudo:session): session closed for user root
+Mar 09 15:47:45 pav sudo[19543]: [0;1;39m[0;1;31m[0;1;39m  sofiia : TTY=tty3 ; PWD=/home/sofiia ; USER=root ; COMMAND=/usr/bin/apt-get update[0m
+Mar 09 15:47:45 pav sudo[19543]: pam_unix(sudo:session): session opened for user root by sofiia(uid=0)
+Mar 09 15:47:45 pav systemd[1]: Starting Update APT News...
+-- Subject: A start job for unit apt-news.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit apt-news.service has begun execution.
+-- 
+-- The job identifier is 2441.
+Mar 09 15:47:45 pav systemd[1]: Starting Update the local ESM caches...
+-- Subject: A start job for unit esm-cache.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit esm-cache.service has begun execution.
+-- 
+-- The job identifier is 2540.
+Mar 09 15:47:50 pav systemd[1]: apt-news.service: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit apt-news.service has successfully entered the 'dead' state.
+Mar 09 15:47:50 pav systemd[1]: Finished Update APT News.
+-- Subject: A start job for unit apt-news.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit apt-news.service has finished successfully.
+-- 
+-- The job identifier is 2441.
+Mar 09 15:47:54 pav dbus-daemon[661]: [system] Activating via systemd: service name='org.freedesktop.PackageKit' unit='packagekit.service' requested by ':1.63' (uid=0 pid=19950 comm="/usr/bin/gdbus call --system --dest org.freedeskto" label="unconfined")
+Mar 09 15:47:54 pav systemd[1]: Starting PackageKit Daemon...
+-- Subject: A start job for unit packagekit.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit packagekit.service has begun execution.
+-- 
+-- The job identifier is 2639.
+Mar 09 15:47:54 pav systemd[1]: esm-cache.service: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit esm-cache.service has successfully entered the 'dead' state.
+Mar 09 15:47:54 pav systemd[1]: Finished Update the local ESM caches.
+-- Subject: A start job for unit esm-cache.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit esm-cache.service has finished successfully.
+-- 
+-- The job identifier is 2540.
+Mar 09 15:47:54 pav PackageKit[19953]: [0;38;5;245m[0;1;31m[0;38;5;245mdaemon start[0m
+Mar 09 15:47:55 pav dbus-daemon[661]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Mar 09 15:47:55 pav systemd[1]: Started PackageKit Daemon.
+-- Subject: A start job for unit packagekit.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit packagekit.service has finished successfully.
+-- 
+-- The job identifier is 2639.
+Mar 09 15:48:23 pav sudo[19543]: pam_unix(sudo:session): session closed for user root
+Mar 09 15:48:55 pav sudo[20000]: [0;1;39m[0;1;31m[0;1;39m  sofiia : TTY=tty3 ; PWD=/home/sofiia ; USER=root ; COMMAND=/usr/bin/apt-get install jenkins[0m
+Mar 09 15:48:55 pav sudo[20000]: pam_unix(sudo:session): session opened for user root by sofiia(uid=0)
+Mar 09 15:52:08 pav groupadd[20054]: group added to /etc/group: name=jenkins, GID=118
+Mar 09 15:52:08 pav groupadd[20054]: group added to /etc/gshadow: name=jenkins
+Mar 09 15:52:08 pav groupadd[20054]: new group: name=jenkins, GID=118
+Mar 09 15:52:08 pav useradd[20062]: new user: name=jenkins, UID=114, GID=118, home=/var/lib/jenkins, shell=/bin/bash, from=/dev/pts/0
+Mar 09 15:52:09 pav usermod[20070]: change user 'jenkins' password
+Mar 09 15:52:09 pav chage[20077]: changed password expiry for jenkins
+Mar 09 15:52:09 pav chfn[20081]: changed user 'jenkins' information
+Mar 09 15:52:09 pav systemd[1]: Reloading.
+Mar 09 15:52:11 pav systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mConfiguration file /run/systemd/system/netplan-ovs-cleanup.service is marked world-inaccessible. This has no effect as configuration data is accessible via APIs without restrictions. Proceeding anyway.[0m
+Mar 09 15:52:14 pav systemd[1]: Reloading.
+Mar 09 15:52:16 pav systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mConfiguration file /run/systemd/system/netplan-ovs-cleanup.service is marked world-inaccessible. This has no effect as configuration data is accessible via APIs without restrictions. Proceeding anyway.[0m
+Mar 09 15:52:18 pav systemd[1]: Reloading.
+Mar 09 15:52:20 pav systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mConfiguration file /run/systemd/system/netplan-ovs-cleanup.service is marked world-inaccessible. This has no effect as configuration data is accessible via APIs without restrictions. Proceeding anyway.[0m
+Mar 09 15:52:25 pav systemd[1]: Reloading.
+Mar 09 15:52:27 pav systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mConfiguration file /run/systemd/system/netplan-ovs-cleanup.service is marked world-inaccessible. This has no effect as configuration data is accessible via APIs without restrictions. Proceeding anyway.[0m
+Mar 09 15:52:39 pav sudo[20000]: pam_unix(sudo:session): session closed for user root
+Mar 09 15:53:32 pav sudo[20520]: [0;1;39m[0;1;31m[0;1;39m  sofiia : TTY=tty3 ; PWD=/home/sofiia ; USER=root ; COMMAND=/usr/bin/systemctl start jenkins[0m
+Mar 09 15:53:32 pav sudo[20520]: pam_unix(sudo:session): session opened for user root by sofiia(uid=0)
+Mar 09 15:53:33 pav systemd[1]: Starting Jenkins Continuous Integration Server...
+-- Subject: A start job for unit jenkins.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit jenkins.service has begun execution.
+-- 
+-- The job identifier is 2743.
+Mar 09 15:53:36 pav jenkins[20523]: Running with Java 11 from /usr/lib/jvm/java-11-openjdk-amd64, which is older than the minimum required version (Java 17).
+Mar 09 15:53:36 pav jenkins[20523]: Supported Java versions are: [17, 21]
+Mar 09 15:53:36 pav jenkins[20523]: See https://jenkins.io/redirect/java-support/ for more information.
+Mar 09 15:53:36 pav systemd[1]: [0;1;39m[0;1;31m[0;1;39mjenkins.service: Main process exited, code=exited, status=1/FAILURE[0m
+-- Subject: Unit process exited
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- An ExecStart= process belonging to unit jenkins.service has exited.
+-- 
+-- The process' exit code is 'exited' and its exit status is 1.
+Mar 09 15:53:36 pav systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mjenkins.service: Failed with result 'exit-code'.[0m
+-- Subject: Unit failed
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit jenkins.service has entered the 'failed' state with result 'exit-code'.
+Mar 09 15:53:36 pav systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start Jenkins Continuous Integration Server.[0m
+-- Subject: A start job for unit jenkins.service has failed
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit jenkins.service has finished with a failure.
+-- 
+-- The job identifier is 2743 and the job result is failed.
+Mar 09 15:53:36 pav sudo[20520]: pam_unix(sudo:session): session closed for user root
+Mar 09 15:53:37 pav systemd[1]: jenkins.service: Scheduled restart job, restart counter is at 1.
+-- Subject: Automatic restarting of a unit has been scheduled
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- Automatic restarting of the unit jenkins.service has been scheduled, as the result for
+-- the configured Restart= setting for the unit.
+Mar 09 15:53:37 pav systemd[1]: Stopped Jenkins Continuous Integration Server.
+-- Subject: A stop job for unit jenkins.service has finished
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A stop job for unit jenkins.service has finished.
+-- 
+-- The job identifier is 2842 and the job result is done.
+Mar 09 15:53:37 pav systemd[1]: Starting Jenkins Continuous Integration Server...
+-- Subject: A start job for unit jenkins.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit jenkins.service has begun execution.
+-- 
+-- The job identifier is 2842.
+Mar 09 15:53:40 pav jenkins[20571]: Running with Java 11 from /usr/lib/jvm/java-11-openjdk-amd64, which is older than the minimum required version (Java 17).
+Mar 09 15:53:40 pav jenkins[20571]: Supported Java versions are: [17, 21]
+Mar 09 15:53:40 pav jenkins[20571]: See https://jenkins.io/redirect/java-support/ for more information.
+Mar 09 15:53:40 pav systemd[1]: [0;1;39m[0;1;31m[0;1;39mjenkins.service: Main process exited, code=exited, status=1/FAILURE[0m
+-- Subject: Unit process exited
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- An ExecStart= process belonging to unit jenkins.service has exited.
+-- 
+-- The process' exit code is 'exited' and its exit status is 1.
+Mar 09 15:53:40 pav systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mjenkins.service: Failed with result 'exit-code'.[0m
+-- Subject: Unit failed
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit jenkins.service has entered the 'failed' state with result 'exit-code'.
+Mar 09 15:53:40 pav systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start Jenkins Continuous Integration Server.[0m
+-- Subject: A start job for unit jenkins.service has failed
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit jenkins.service has finished with a failure.
+-- 
+-- The job identifier is 2842 and the job result is failed.
+Mar 09 15:53:40 pav systemd[1]: jenkins.service: Scheduled restart job, restart counter is at 2.
+-- Subject: Automatic restarting of a unit has been scheduled
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- Automatic restarting of the unit jenkins.service has been scheduled, as the result for
+-- the configured Restart= setting for the unit.
+Mar 09 15:53:40 pav systemd[1]: Stopped Jenkins Continuous Integration Server.
+-- Subject: A stop job for unit jenkins.service has finished
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A stop job for unit jenkins.service has finished.
+-- 
+-- The job identifier is 2941 and the job result is done.
+Mar 09 15:53:40 pav systemd[1]: Starting Jenkins Continuous Integration Server...
+-- Subject: A start job for unit jenkins.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit jenkins.service has begun execution.
+-- 
+-- The job identifier is 2941.
+Mar 09 15:53:44 pav jenkins[20606]: Running with Java 11 from /usr/lib/jvm/java-11-openjdk-amd64, which is older than the minimum required version (Java 17).
+Mar 09 15:53:44 pav jenkins[20606]: Supported Java versions are: [17, 21]
+Mar 09 15:53:44 pav jenkins[20606]: See https://jenkins.io/redirect/java-support/ for more information.
+Mar 09 15:53:44 pav systemd[1]: [0;1;39m[0;1;31m[0;1;39mjenkins.service: Main process exited, code=exited, status=1/FAILURE[0m
+-- Subject: Unit process exited
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- An ExecStart= process belonging to unit jenkins.service has exited.
+-- 
+-- The process' exit code is 'exited' and its exit status is 1.
+Mar 09 15:53:44 pav systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mjenkins.service: Failed with result 'exit-code'.[0m
+-- Subject: Unit failed
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit jenkins.service has entered the 'failed' state with result 'exit-code'.
+Mar 09 15:53:44 pav systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start Jenkins Continuous Integration Server.[0m
+-- Subject: A start job for unit jenkins.service has failed
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit jenkins.service has finished with a failure.
+-- 
+-- The job identifier is 2941 and the job result is failed.
+Mar 09 15:53:44 pav systemd[1]: jenkins.service: Scheduled restart job, restart counter is at 3.
+-- Subject: Automatic restarting of a unit has been scheduled
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- Automatic restarting of the unit jenkins.service has been scheduled, as the result for
+-- the configured Restart= setting for the unit.
+Mar 09 15:53:44 pav systemd[1]: Stopped Jenkins Continuous Integration Server.
+-- Subject: A stop job for unit jenkins.service has finished
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A stop job for unit jenkins.service has finished.
+-- 
+-- The job identifier is 3040 and the job result is done.
+Mar 09 15:53:44 pav systemd[1]: Starting Jenkins Continuous Integration Server...
+-- Subject: A start job for unit jenkins.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit jenkins.service has begun execution.
+-- 
+-- The job identifier is 3040.
+Mar 09 15:53:48 pav jenkins[20640]: Running with Java 11 from /usr/lib/jvm/java-11-openjdk-amd64, which is older than the minimum required version (Java 17).
+Mar 09 15:53:48 pav jenkins[20640]: Supported Java versions are: [17, 21]
+Mar 09 15:53:48 pav jenkins[20640]: See https://jenkins.io/redirect/java-support/ for more information.
+Mar 09 15:53:48 pav systemd[1]: [0;1;39m[0;1;31m[0;1;39mjenkins.service: Main process exited, code=exited, status=1/FAILURE[0m
+-- Subject: Unit process exited
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- An ExecStart= process belonging to unit jenkins.service has exited.
+-- 
+-- The process' exit code is 'exited' and its exit status is 1.
+Mar 09 15:53:48 pav systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mjenkins.service: Failed with result 'exit-code'.[0m
+-- Subject: Unit failed
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit jenkins.service has entered the 'failed' state with result 'exit-code'.
+Mar 09 15:53:48 pav systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start Jenkins Continuous Integration Server.[0m
+-- Subject: A start job for unit jenkins.service has failed
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit jenkins.service has finished with a failure.
+-- 
+-- The job identifier is 3040 and the job result is failed.
+Mar 09 15:53:48 pav systemd[1]: jenkins.service: Scheduled restart job, restart counter is at 4.
+-- Subject: Automatic restarting of a unit has been scheduled
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- Automatic restarting of the unit jenkins.service has been scheduled, as the result for
+-- the configured Restart= setting for the unit.
+Mar 09 15:53:48 pav systemd[1]: Stopped Jenkins Continuous Integration Server.
+-- Subject: A stop job for unit jenkins.service has finished
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A stop job for unit jenkins.service has finished.
+-- 
+-- The job identifier is 3139 and the job result is done.
+Mar 09 15:53:48 pav systemd[1]: Starting Jenkins Continuous Integration Server...
+-- Subject: A start job for unit jenkins.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit jenkins.service has begun execution.
+-- 
+-- The job identifier is 3139.
+Mar 09 15:53:52 pav jenkins[20673]: Running with Java 11 from /usr/lib/jvm/java-11-openjdk-amd64, which is older than the minimum required version (Java 17).
+Mar 09 15:53:52 pav jenkins[20673]: Supported Java versions are: [17, 21]
+Mar 09 15:53:52 pav jenkins[20673]: See https://jenkins.io/redirect/java-support/ for more information.
+Mar 09 15:53:52 pav systemd[1]: [0;1;39m[0;1;31m[0;1;39mjenkins.service: Main process exited, code=exited, status=1/FAILURE[0m
+-- Subject: Unit process exited
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- An ExecStart= process belonging to unit jenkins.service has exited.
+-- 
+-- The process' exit code is 'exited' and its exit status is 1.
+Mar 09 15:53:52 pav systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mjenkins.service: Failed with result 'exit-code'.[0m
+-- Subject: Unit failed
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit jenkins.service has entered the 'failed' state with result 'exit-code'.
+Mar 09 15:53:52 pav systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start Jenkins Continuous Integration Server.[0m
+-- Subject: A start job for unit jenkins.service has failed
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit jenkins.service has finished with a failure.
+-- 
+-- The job identifier is 3139 and the job result is failed.
+Mar 09 15:53:52 pav systemd[1]: jenkins.service: Scheduled restart job, restart counter is at 5.
+-- Subject: Automatic restarting of a unit has been scheduled
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- Automatic restarting of the unit jenkins.service has been scheduled, as the result for
+-- the configured Restart= setting for the unit.
+Mar 09 15:53:52 pav systemd[1]: Stopped Jenkins Continuous Integration Server.
+-- Subject: A stop job for unit jenkins.service has finished
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A stop job for unit jenkins.service has finished.
+-- 
+-- The job identifier is 3238 and the job result is done.
+Mar 09 15:53:52 pav systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mjenkins.service: Start request repeated too quickly.[0m
+Mar 09 15:53:52 pav systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mjenkins.service: Failed with result 'exit-code'.[0m
+-- Subject: Unit failed
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit jenkins.service has entered the 'failed' state with result 'exit-code'.
+Mar 09 15:53:52 pav systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start Jenkins Continuous Integration Server.[0m
+-- Subject: A start job for unit jenkins.service has failed
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit jenkins.service has finished with a failure.
+-- 
+-- The job identifier is 3238 and the job result is failed.
+Mar 09 15:54:31 pav sudo[20708]: [0;1;39m[0;1;31m[0;1;39m  sofiia : TTY=tty3 ; PWD=/home/sofiia ; USER=root ; COMMAND=/usr/bin/systemctl status jenkins.service[0m
+Mar 09 15:54:31 pav sudo[20708]: pam_unix(sudo:session): session opened for user root by sofiia(uid=0)
+Mar 09 15:54:31 pav sudo[20708]: pam_unix(sudo:session): session closed for user root
+Mar 09 15:56:25 pav sudo[20711]: [0;1;39m[0;1;31m[0;1;39m  sofiia : TTY=tty3 ; PWD=/home/sofiia ; USER=root ; COMMAND=/usr/bin/netstat -tulp[0m
+Mar 09 15:56:25 pav sudo[20711]: pam_unix(sudo:session): session opened for user root by sofiia(uid=0)
+Mar 09 15:56:26 pav sudo[20711]: pam_unix(sudo:session): session closed for user root
+Mar 09 15:57:09 pav sudo[20714]: [0;1;39m[0;1;31m[0;1;39m  sofiia : TTY=tty3 ; PWD=/home/sofiia ; USER=root ; COMMAND=/usr/bin/systemctl start jenkins[0m
+Mar 09 15:57:09 pav sudo[20714]: pam_unix(sudo:session): session opened for user root by sofiia(uid=0)
+Mar 09 15:57:09 pav systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mjenkins.service: Start request repeated too quickly.[0m
+Mar 09 15:57:09 pav systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mjenkins.service: Failed with result 'exit-code'.[0m
+-- Subject: Unit failed
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit jenkins.service has entered the 'failed' state with result 'exit-code'.
+Mar 09 15:57:09 pav systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start Jenkins Continuous Integration Server.[0m
+-- Subject: A start job for unit jenkins.service has failed
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit jenkins.service has finished with a failure.
+-- 
+-- The job identifier is 3337 and the job result is failed.
+Mar 09 15:57:09 pav sudo[20714]: pam_unix(sudo:session): session closed for user root
