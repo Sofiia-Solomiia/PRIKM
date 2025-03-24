@@ -1,13 +1,13 @@
 pipeline {
     agent any
     environment {
-        CONTAINER_NAME = "nginx_custom_lab" // Ім'я контейнера
+        CONTAINER_NAME = "custom_lab2" // Ім'я контейнера
     }
     
     stages {
         stage('Start') {
             steps {
-                echo 'Lab_1: nginx/custom'
+                echo 'Lab_2: started by GitHub'
             }
         }
         
@@ -24,23 +24,25 @@ pipeline {
             } // Додано автоматичне зупинення та видалення старих контейнерів перед новим розгортанням.
         }
         
-        stage('Build nginx/custom') {
+        stage('Image build') {
             steps {
-                sh 'docker build -t nginx/custom:latest .'
+                sh "docker build -t prikm:latest ."
+                sh "docker tag prikm sofiiasolomiia/prikm:latest"
+                sh "docker tag prikm sofiiasolomiia/prikm:$BUILD_NUMBER"
             }
         }
-
-        stage('Test nginx/custom') {
+        stage('Push to registry') {
             steps {
-                sh 'docker run --rm nginx/custom:latest nginx -t'        // Додано тестовий запуск контейнера.
-                echo 'Container built and tested successfully!' // Змінено повідомлення про виконання
+                withDockerRegistry([ credentialsId: "ID_облікових даних", url: "" ])
+                {
+                    sh "docker push sofiiasolomiia/prikm:latest"
+                    sh "docker push sofiiasolomiia/prikm:$BUILD_NUMBER"
+                }
             }
         }
-
-        stage('Deploy nginx/custom') {
-            steps {
-                sh 'docker run -d --name $CONTAINER_NAME -p 80:80 nginx/custom:latest'
-                echo 'Deployment completed successfully!' // Повідомлення про результат виконання
+        stage('Deploy image'){
+            steps{
+                sh "docker run -d -p 80:80 sofiiasolomiia/prikm"
             }
         }
     }
