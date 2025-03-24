@@ -18,7 +18,7 @@ pipeline {
                     echo "Stopping and removing existing container: $CONTAINER_NAME"
                     docker stop $CONTAINER_NAME && docker rm $CONTAINER_NAME
                 else
-                    echo "No existing container found, skipping cleanup."
+                    echo "No existing container found, skipping cleanup"
                 fi
                 '''
             } // Додано автоматичне зупинення та видалення старих контейнерів перед новим розгортанням.
