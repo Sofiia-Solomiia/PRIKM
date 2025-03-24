@@ -33,7 +33,7 @@ pipeline {
         }
         stage('Push to registry') {
             steps {
-                withDockerRegistry([ credentialsId: "ID_облікових даних", url: "" ])
+                withDockerRegistry([ credentialsId: "docker-hub-credentials", url: "" ])
                 {
                     sh "docker push sofiiasolomiia/prikm:latest"
                     sh "docker push sofiiasolomiia/prikm:$BUILD_NUMBER"
