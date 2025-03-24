@@ -1,7 +1,7 @@
 pipeline {
     agent any
     environment {
-        CONTAINER_NAME = "custom_lab2" // Ім'я контейнера
+        CONTAINER_NAME = "custom__lab2" // Ім'я контейнера
     }
     
     stages {
