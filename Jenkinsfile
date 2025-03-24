@@ -39,7 +39,7 @@ pipeline {
 
         stage('Deploy nginx/custom') {
             steps {
-                sh 'docker run -d --name $CONTAINER_NAME -p 80:80 nginx/custom:latest'
+                sh 'docker run -d --name $CONTAINER_NAME -p 8888:80 nginx/custom:latest'
                 echo 'Deployment completed successfully!' // Повідомлення про результат виконання
             }
         }
