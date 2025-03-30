@@ -62,7 +62,7 @@ pipeline {
          }
          stage('Deploy image'){
              steps{
-                 sh "docker run -d -p 8888:80 sofiiasolomiia/prikm"
+                 sh "docker run -d -p 8880:80 sofiiasolomiia/prikm"
              }
          }
      }
