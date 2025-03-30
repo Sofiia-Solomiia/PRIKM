@@ -67,7 +67,7 @@ pipeline {
         
         stage('Deploy image') {
             steps {
-                sh "docker run -d -p 8880:80 --name $CONTAINER_NAME sofiiasolomiia/prikm:$IMAGE_TAG"
+                sh "docker run -d -p 8881:80 --name $CONTAINER_NAME sofiiasolomiia/prikm:$IMAGE_TAG"
             }
         }
     }
