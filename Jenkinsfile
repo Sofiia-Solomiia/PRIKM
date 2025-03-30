@@ -30,7 +30,7 @@ pipeline {
                 echo 'Lab_2: started by GitHub'
             }
         }
-        
+
         stage('Cleanup old containers') {
             steps {
                 sh '''
@@ -38,32 +38,50 @@ pipeline {
                     echo "Stopping and removing existing container: $CONTAINER_NAME"
                     docker stop $CONTAINER_NAME && docker rm $CONTAINER_NAME
                 else
-                    echo "No existing container found, skipping cleanup"
+                    echo "No existing container found, skipping cleanup."
                 fi
                 '''
-            } // Додано автоматичне зупинення та видалення старих контейнерів перед новим розгортанням.
-        }
-        
-        stage('Image build') {
-            steps {
-                sh "docker build -t prikm:latest ."
-                sh "docker tag prikm sofiiasolomiia/prikm:latest"
-                sh "docker tag prikm sofiiasolomiia/prikm:$BUILD_NUMBER"
             }
         }
+
+        stage('Image build') {
+            steps {
+                sh '''
+                docker build -t prikm:latest .
+                docker tag prikm $IMAGE_NAME:latest
+                docker tag prikm $IMAGE_NAME:$BUILD_NUMBER
+                '''
+            }
+        }
+
         stage('Push to registry') {
             steps {
-                withDockerRegistry([ credentialsId: "docker-hub-credentials", url: "" ])
-                {
-                    sh "docker push sofiiasolomiia/prikm:latest"
-                    sh "docker push sofiiasolomiia/prikm:$BUILD_NUMBER"
+                withDockerRegistry([credentialsId: "dockerhub_token", url: ""]) {
+                    sh '''
+                    docker push $IMAGE_NAME:latest
+                    docker push $IMAGE_NAME:$BUILD_NUMBER
+                    '''
                 }
             }
         }
-        stage('Deploy image'){
-            steps{
-                sh "docker run -d -p 8888:80 sofiiasolomiia/prikm"
+
+        stage('Deploy image') {
+            steps {
+                sh '''
+                docker run -d --name $CONTAINER_NAME -p 80:80 $IMAGE_NAME:latest
+                echo "Deployment completed successfully!"
+                '''
             }
+        }
+    }
+    post {
+        success {
+            office365ConnectorSend message: "Build and deployment successful for tag: latest",
+                webhookUrl: env.TEAMS_WEBHOOK_URL
+        }
+        failure {
+            office365ConnectorSend message: "Build failed! Check Jenkins logs.",
+                webhookUrl: env.TEAMS_WEBHOOK_URL
         }
     }
 }
