@@ -58,7 +58,7 @@ pipeline {
         
         stage('Push to registry') {
             steps {
-                withDockerRegistry([ credentialsId: "docker-hub-credentials", url: "" ]) {
+                withDockerRegistry([ credentialsId: "docker_lab_token", url: "" ]) {
                     sh "docker push sofiiasolomiia/prikm:$IMAGE_TAG"
                     sh "docker push sofiiasolomiia/prikm:$BUILD_NUMBER"
                 }
