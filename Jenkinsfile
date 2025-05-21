@@ -24,7 +24,7 @@ pipeline {
     agent any
     
     environment {
-        CONTAINER_NAME = "custom_lab3" 
+ 
         TEAMS_WEBHOOK_URL = "https://lpnu.webhook.office.com/webhookb2/8f322f9f-54a7-4daf-9f1a-da81939d84af@7631cd62-5187-4e15-8b8e-ef653e366e7a/IncomingWebhook/2eef2504c44b45b2992456f173a3f49a/60fa48bd-5fc5-49ab-b31e-390ca5651e30/V235YDb95QIp274jIQm2nRveb1ZIk-_AUSrNsuundo0mI1"
     }
     
@@ -38,9 +38,9 @@ pipeline {
         stage('Cleanup old containers') {
             steps {
                 sh '''
-                if [ "$(docker ps -aq -f name=$CONTAINER_NAME)" ]; then
-                    echo "Stopping and removing existing container: $CONTAINER_NAME"
-                    docker stop $CONTAINER_NAME && docker rm $CONTAINER_NAME
+                if [ "$(docker ps -aq -f name=custom_lab3)" ]; then
+                    echo "Stopping and removing existing container: custom_lab3"
+                    docker stop custom_lab3 && docker rm custom_lab3
                 else
                     echo "No existing container found, skipping cleanup"
                 fi
@@ -67,19 +67,29 @@ pipeline {
         
         stage('Deploy image') {
             steps {
-                sh "docker run -d -p 8881:80 --name $CONTAINER_NAME sofiiasolomiia/prikm:$IMAGE_TAG"
+                sh "docker run -d -p 8881:80 --name custom_lab3 sofiiasolomiia/prikm:$IMAGE_TAG"
             }
         }
     }
 
     post {
         success {
-            office365ConnectorSend message: "Build and deployment successful for tag: $IMAGE_TAG",
-                webhookUrl: env.TEAMS_WEBHOOK_URL
+           withCredentials([vaultString(credentialsId: 'vault-secret-text', variable: 'TEAMS_WEBHOOK_URL')]) {
+            sh '''
+            curl -X POST -H "Content-Type: application/json" \
+                -d '{"text": "✅ Build and deployment successful for tag: '''"$IMAGE_TAG"'''"}' \
+                $TEAMS_WEBHOOK_URL
+            '''
+            }
         }
         failure {
-            office365ConnectorSend message: "Build failed! Check Jenkins logs.",
-                webhookUrl: env.TEAMS_WEBHOOK_URL
+            withCredentials([vaultString(credentialsId: 'vault-teams-webhook', variable: 'TEAMS_WEBHOOK_URL')]) {
+            sh '''
+            curl -X POST -H "Content-Type: application/json" \
+                -d '{"text": "❌ Build failed! Check Jenkins logs."}' \
+                $TEAMS_WEBHOOK_URL
+            '''
+        }
         }
     }
 }
