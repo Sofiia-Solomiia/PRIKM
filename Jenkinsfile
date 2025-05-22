@@ -1,40 +1,18 @@
-properties([
-    parameters([
-        string(name: 'IMAGE_TAG', defaultValue: 'latest', description: 'Tag for Docker image')
-    ]),
-    pipelineTriggers([]),
-    office365ConnectorWebhooks([
-        [
-            name: 'Teams-O365',
-            url: 'https://lpnu.webhook.office.com/webhookb2/8f322f9f-54a7-4daf-9f1a-da81939d84af@7631cd62-5187-4e15-8b8e-ef653e366e7a/IncomingWebhook/2eef2504c44b45b2992456f173a3f49a/60fa48bd-5fc5-49ab-b31e-390ca5651e30/V235YDb95QIp274jIQm2nRveb1ZIk-_AUSrNsuundo0mI1',
-            startNotification: false,
-            notifySuccess: true,
-            notifyAborted: false,
-            notifyNotBuilt: false,
-            notifyUnstable: true,
-            notifyFailure: true,
-            notifyBackToNormal: true,
-            notifyRepeatedFailure: false,
-            timeout: 30000
-        ]
-    ])
-])
-
 pipeline {
     agent any
-    
+   
     environment {
-        CONTAINER_NAME = "custom_lab3" 
-        TEAMS_WEBHOOK_URL = "https://lpnu.webhook.office.com/webhookb2/8f322f9f-54a7-4daf-9f1a-da81939d84af@7631cd62-5187-4e15-8b8e-ef653e366e7a/IncomingWebhook/2eef2504c44b45b2992456f173a3f49a/60fa48bd-5fc5-49ab-b31e-390ca5651e30/V235YDb95QIp274jIQm2nRveb1ZIk-_AUSrNsuundo0mI1"
+        CONTAINER_NAME = "prikm_lab2"
+        IMAGE_NAME = "squeezyfish/prikm"
     }
-    
+   
     stages {
-        stage('Start') {
+        stage('🔰 Початок процесу') {
             steps {
-                echo "Lab_2: started by GitHub"
+                echo 'Старт: Lab_7 pipeline'
             }
         }
-
+       
         stage('Cleanup old containers') {
             steps {
                 sh '''
@@ -42,44 +20,92 @@ pipeline {
                     echo "Stopping and removing existing container: $CONTAINER_NAME"
                     docker stop $CONTAINER_NAME && docker rm $CONTAINER_NAME
                 else
-                    echo "No existing container found, skipping cleanup"
+                    echo "No existing container found, skipping cleanup."
                 fi
                 '''
-            } 
-        }
-
-        stage('Image build') {
-            steps {
-                sh "docker build -t prikm:$IMAGE_TAG ."
-                sh "docker tag prikm:$IMAGE_TAG sofiiasolomiia/prikm:$IMAGE_TAG"
-                sh "docker tag prikm:$IMAGE_TAG sofiiasolomiia/prikm:$BUILD_NUMBER"
             }
         }
-        
-        stage('Push to registry') {
+       
+        stage('🔐 Аутентифікація до HCP') {
             steps {
-                withDockerRegistry([ credentialsId: "docker-hub-credentials", url: "" ]) {
-                    sh "docker push sofiiasolomiia/prikm:$IMAGE_TAG"
-                    sh "docker push sofiiasolomiia/prikm:$BUILD_NUMBER"
+                withCredentials([usernamePassword(
+                    credentialsId: 'hcp_credentials',
+                    usernameVariable: 'HCP_CLIENT_ID',
+                    passwordVariable: 'HCP_CLIENT_SECRET'
+                )]) {
+                    script {
+                        sh 'hcp auth login --client-id $HCP_CLIENT_ID --client-secret $HCP_CLIENT_SECRET'
+                    }
                 }
             }
         }
-        
-        stage('Deploy image') {
+ 
+        stage('⚙️ Ініціалізація HCP профілю') {
             steps {
-                sh "docker run -d -p 8881:80 --name $CONTAINER_NAME sofiiasolomiia/prikm:$IMAGE_TAG"
+                sh 'hcp profile set vault-secrets/app Lab-7'
+            }
+        }
+ 
+        stage('🐳 Збірка Docker образу nginx/custom') {
+            steps {
+                sh '''
+                docker build -t prikm:latest .
+                docker tag prikm $IMAGE_NAME:latest
+                docker tag prikm $IMAGE_NAME:$BUILD_NUMBER
+                '''
+            }
+        }
+       
+        stage('Push to registry') {
+            steps {
+                withDockerRegistry([credentialsId: "dockerhub_token", url: ""]) {
+                    sh '''
+                    docker push $IMAGE_NAME:latest
+                    docker push $IMAGE_NAME:$BUILD_NUMBER
+                    '''
+                }
+            }
+        }
+       
+        stage('🚀 Деплой nginx/custom контейнера') {
+            steps {
+                sh '''
+                docker run -d --name $CONTAINER_NAME -p 81:80 $IMAGE_NAME:latest
+                echo "Deployment completed successfully!"
+                '''
+            }
+        }
+ 
+        stage('✅ Завершення процесу') {
+            steps {
+                echo 'Завершення: Lab_7 pipeline'
             }
         }
     }
-
+ 
     post {
-        success {
-            office365ConnectorSend message: "Build and deployment successful for tag: $IMAGE_TAG",
-                webhookUrl: env.TEAMS_WEBHOOK_URL
+        always {
+            script {
+                env.webhookUrl = sh(script: 'hcp vault-secrets secrets open msteams_webhook --format=json | jq -r .static_version.value', returnStdout: true).trim()
+            }
         }
+ 
+        success {
+            office365ConnectorSend(
+                webhookUrl: webhookUrl,
+                message: "✅ Збірка пройшла успішно!",
+                status: "Success",
+                color: "00FF00"
+            )
+        }
+ 
         failure {
-            office365ConnectorSend message: "Build failed! Check Jenkins logs.",
-                webhookUrl: env.TEAMS_WEBHOOK_URL
+            office365ConnectorSend(
+                webhookUrl: webhookUrl,
+                message: "❌ Збірка зазнала невдачі!",
+                status: "Failure",
+                color: "FF0000"
+            )
         }
     }
 }
