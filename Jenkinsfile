@@ -42,7 +42,7 @@ pipeline {
  
         stage('⚙️ Ініціалізація HCP профілю') {
             steps {
-                sh 'hcp profile set vault-secrets/app Lab-7'
+                sh 'hcp profile set vault-secrets/app vault-server-app-pavlyshyn'
             }
         }
  
