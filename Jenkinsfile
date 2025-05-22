@@ -86,7 +86,7 @@ pipeline {
     post {
         always {
             script {
-                env.webhookUrl = sh(script: 'hcp vault-secrets secrets open msteams_webhook --format=json | jq -r .static_version.value', returnStdout: true).trim()
+                env.webhookUrl = sh(script: 'hcp vault-secrets secrets open teams_microsoft_webhook --format=json | jq -r .static_version.value', returnStdout: true).trim()
             }
         }
  
