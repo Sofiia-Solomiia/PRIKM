@@ -3,7 +3,7 @@ pipeline {
    
     environment {
         CONTAINER_NAME = "prikm_lab2"
-        IMAGE_NAME = "squeezyfish/prikm"
+        IMAGE_NAME = "sofiiasolomiia/prikm"
     }
    
     stages {
