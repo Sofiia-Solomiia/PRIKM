@@ -75,7 +75,9 @@ pipeline {
     post {
     success {
         withCredentials([vaultString(credentialsId: 'vault-secret-text', variable: 'TEAMS_WEBHOOK_URL')]) {
-            sh "curl -X POST -H \"Content-Type: application/json\" -d '{\"text\": \"✅ Build and deployment successful for tag: $IMAGE_TAG\"}' $TEAMS_WEBHOOK_URL"
+                office365ConnectorSend message: "Build and deployment successful for tag: $IMAGE_TAG",
+                webhookUrl:"$TEAMS_WEBHOOK_URL"
+
         }
      }
     failure {
