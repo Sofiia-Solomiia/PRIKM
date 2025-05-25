@@ -1,31 +1,32 @@
 pipeline {
     agent any
-   
+
     environment {
         CONTAINER_NAME = "prikm_lab2"
         IMAGE_NAME = "sofiiasolomiia/prikm"
+        TEAMS_WEBHOOK_URL = "https://lpnu.webhook.office.com/webhookb2/8f322f9f-54a7-4daf-9f1a-d..." // ← допиши повний
     }
-   
+
     stages {
         stage('🔰 Початок процесу') {
             steps {
                 echo 'Старт: Lab_7 pipeline'
             }
         }
-       
+
         stage('Cleanup old containers') {
             steps {
                 sh '''
-                if [ "$(docker ps -aq -f name=$CONTAINER_NAME)" ]; then
-                    echo "Stopping and removing existing container: $CONTAINER_NAME"
-                    docker stop $CONTAINER_NAME && docker rm $CONTAINER_NAME
+                if [ "$(docker ps -aq -f name=custom_lab3)" ]; then
+                    echo "Stopping and removing existing container: custom_lab3"
+                    docker stop custom_lab3 && docker rm custom_lab3
                 else
-                    echo "No existing container found, skipping cleanup."
+                    echo "No existing container found, skipping cleanup"
                 fi
                 '''
             }
         }
-       
+
         stage('🔐 Аутентифікація до HCP') {
             steps {
                 withCredentials([usernamePassword(
@@ -39,13 +40,13 @@ pipeline {
                 }
             }
         }
- 
+
         stage('⚙️ Ініціалізація HCP профілю') {
             steps {
                 sh 'hcp profile set vault-secrets/app vault-server-app-pavlyshyn'
             }
         }
- 
+
         stage('🐳 Збірка Docker образу nginx/custom') {
             steps {
                 sh '''
@@ -55,7 +56,7 @@ pipeline {
                 '''
             }
         }
-       
+
         stage('Push to registry') {
             steps {
                 withDockerRegistry([credentialsId: "docker_lab_token", url: ""]) {
@@ -66,7 +67,7 @@ pipeline {
                 }
             }
         }
-       
+
         stage('🚀 Деплой nginx/custom контейнера') {
             steps {
                 sh '''
@@ -75,21 +76,21 @@ pipeline {
                 '''
             }
         }
- 
+
         stage('✅ Завершення процесу') {
             steps {
                 echo 'Завершення: Lab_7 pipeline'
             }
         }
     }
- 
+
     post {
         always {
             script {
-                env.webhookUrl = sh(script: 'hcp vault-secrets secrets open teams_microsoft_webhook --format=json | jq -r .static_version.value', returnStdout: true).trim()
+                env.webhookUrl = sh(script: 'hcp vault-secrets secrets open teams_microsoft_webhook --field=url', returnStdout: true).trim()
             }
         }
- 
+
         success {
             office365ConnectorSend(
                 webhookUrl: webhookUrl,
@@ -98,7 +99,7 @@ pipeline {
                 color: "00FF00"
             )
         }
- 
+
         failure {
             office365ConnectorSend(
                 webhookUrl: webhookUrl,
